@@ -1,0 +1,881 @@
+{
+  "name": "DDV",
+  "uuid": "123456",
+  "id": "123456",
+  "cor": "#fff",
+  "children": [
+    {
+      "name": "Lambda",
+      "uuid": "c0dc9840-48ed-473e-8d22-ff755e424471",
+      "id": "c0dc9840-48ed-473e-8d22-ff755e424471",
+      "cor": "#e2cf6a",
+      "children": [
+        {
+          "name": "Lambda5",
+          "uuid": "a08e0008-d108-4d1e-85b1-05cf6e3b5183",
+          "id": "a08e0008-d108-4d1e-85b1-05cf6e3b5183",
+          "cor": "#e2cf6a",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Lambda3",
+          "uuid": "68a1e485-a066-481e-9087-a48ab1fc2b38",
+          "id": "68a1e485-a066-481e-9087-a48ab1fc2b38",
+          "cor": "#e2cf6a",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Lambda4",
+          "uuid": "6bf673ce-cf74-4930-8c93-e9020913daae",
+          "id": "6bf673ce-cf74-4930-8c93-e9020913daae",
+          "cor": "#e2cf6a",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Lambda2",
+          "uuid": "32b29a42-a74e-48d6-871f-f946be638951",
+          "id": "32b29a42-a74e-48d6-871f-f946be638951",
+          "cor": "#e2cf6a",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Lambda1",
+          "uuid": "2ffb84f5-6810-47cb-9d3c-b82f34858cf0",
+          "id": "2ffb84f5-6810-47cb-9d3c-b82f34858cf0",
+          "cor": "#e2cf6a",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Long",
+      "uuid": "118804fb-232f-401c-a563-74152fe9fba1",
+      "id": "118804fb-232f-401c-a563-74152fe9fba1",
+      "cor": "#03f3e3",
+      "children": [
+        {
+          "name": "LongAccumulator1",
+          "uuid": "4953dda2-fd81-45bd-90cd-06d495670390",
+          "id": "4953dda2-fd81-45bd-90cd-06d495670390",
+          "cor": "#03f3e3",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "LongAdder1",
+          "uuid": "e05f5cff-69c8-435d-ab20-9e1658c915b1",
+          "id": "e05f5cff-69c8-435d-ab20-9e1658c915b1",
+          "cor": "#03f3e3",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Nested",
+      "uuid": "e5501fbb-8359-4a17-bbdb-760ea669d3a5",
+      "id": "e5501fbb-8359-4a17-bbdb-760ea669d3a5",
+      "cor": "#d6aff2",
+      "children": [
+        {
+          "name": "Nested",
+          "uuid": "0337d430-a8bc-4a21-a41d-766831e45646",
+          "id": "0337d430-a8bc-4a21-a41d-766831e45646",
+          "cor": "#d6aff2",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Http",
+      "uuid": "94c2cf62-1aed-40eb-8a4b-85e727e67ce2",
+      "id": "94c2cf62-1aed-40eb-8a4b-85e727e67ce2",
+      "cor": "#9f460c",
+      "children": [
+        {
+          "name": "HttpClientExamples",
+          "uuid": "70a7e940-864a-49b7-a44d-b0b4d9a4ee90",
+          "id": "70a7e940-864a-49b7-a44d-b0b4d9a4ee90",
+          "cor": "#9f460c",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Person",
+      "uuid": "bb598fe5-8f93-428d-b6f2-9336214d568b",
+      "id": "bb598fe5-8f93-428d-b6f2-9336214d568b",
+      "cor": "#11e1f6",
+      "children": [
+        {
+          "name": "Person",
+          "uuid": "b7cd73eb-847d-420e-a479-e7de2de75881",
+          "id": "b7cd73eb-847d-420e-a479-e7de2de75881",
+          "cor": "#11e1f6",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "String",
+      "uuid": "fdb2cbd9-9613-4939-8659-a6b4afecc623",
+      "id": "fdb2cbd9-9613-4939-8659-a6b4afecc623",
+      "cor": "#f137ce",
+      "children": [
+        {
+          "name": "String1",
+          "uuid": "f52f6113-eaaf-4b57-897e-8ecc871bc576",
+          "id": "f52f6113-eaaf-4b57-897e-8ecc871bc576",
+          "cor": "#f137ce",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Product",
+      "uuid": "022fd3da-5327-4071-97de-2e6e99893991",
+      "id": "022fd3da-5327-4071-97de-2e6e99893991",
+      "cor": "#20d861",
+      "children": [
+        {
+          "name": "Product",
+          "uuid": "d33c6c35-53ec-4499-9b2f-0745ff4197d3",
+          "id": "d33c6c35-53ec-4499-9b2f-0745ff4197d3",
+          "cor": "#20d861",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Executors",
+      "uuid": "a1b8b8cf-15df-48bb-8c40-8573ecddb9e6",
+      "id": "a1b8b8cf-15df-48bb-8c40-8573ecddb9e6",
+      "cor": "#c49848",
+      "children": [
+        {
+          "name": "Executors1",
+          "uuid": "35234546-2623-40c8-b765-283d16b9a874",
+          "id": "35234546-2623-40c8-b765-283d16b9a874",
+          "cor": "#c49848",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Executors2",
+          "uuid": "e57320d9-5691-43b4-97c8-fd0ed90acfae",
+          "id": "e57320d9-5691-43b4-97c8-fd0ed90acfae",
+          "cor": "#c49848",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Executors3",
+          "uuid": "ed9b72a3-26d4-4d85-852b-620e28cfc62f",
+          "id": "ed9b72a3-26d4-4d85-852b-620e28cfc62f",
+          "cor": "#c49848",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Maps",
+      "uuid": "7ac7ece2-b155-496b-9d72-5c792e4544e4",
+      "id": "7ac7ece2-b155-496b-9d72-5c792e4544e4",
+      "cor": "#e95fed",
+      "children": [
+        {
+          "name": "Maps1",
+          "uuid": "00742b06-9838-480f-a133-03967283272e",
+          "id": "00742b06-9838-480f-a133-03967283272e",
+          "cor": "#e95fed",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Atomic",
+      "uuid": "58d9d2bd-0dfb-4264-818f-f53af4a84160",
+      "id": "58d9d2bd-0dfb-4264-818f-f53af4a84160",
+      "cor": "#cf29d6",
+      "children": [
+        {
+          "name": "Atomic1",
+          "uuid": "c8c25306-b5f2-4f38-8665-bb097817bf64",
+          "id": "c8c25306-b5f2-4f38-8665-bb097817bf64",
+          "cor": "#cf29d6",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Annotations",
+      "uuid": "1af3798e-a59f-4cd5-9974-1b54aadf9515",
+      "id": "1af3798e-a59f-4cd5-9974-1b54aadf9515",
+      "cor": "#3d92a7",
+      "children": [
+        {
+          "name": "Annotations1",
+          "uuid": "ede406b8-c78c-4861-8d4c-870ecbf12d8a",
+          "id": "ede406b8-c78c-4861-8d4c-870ecbf12d8a",
+          "cor": "#3d92a7",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Math",
+      "uuid": "5db38236-6df6-47c0-bab2-927b432343b2",
+      "id": "5db38236-6df6-47c0-bab2-927b432343b2",
+      "cor": "#378ef0",
+      "children": [
+        {
+          "name": "Math1",
+          "uuid": "ace6618a-75ed-4231-92d9-4cc659c2a9b4",
+          "id": "ace6618a-75ed-4231-92d9-4cc659c2a9b4",
+          "cor": "#378ef0",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Local",
+      "uuid": "a276a683-7f34-48ca-9359-5aaa2a92e2d7",
+      "id": "a276a683-7f34-48ca-9359-5aaa2a92e2d7",
+      "cor": "#88adb0",
+      "children": [
+        {
+          "name": "LocalDate1",
+          "uuid": "d0f40e8c-abfe-4e91-a77d-79cbed012973",
+          "id": "d0f40e8c-abfe-4e91-a77d-79cbed012973",
+          "cor": "#88adb0",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "LocalVariableSyntax",
+          "uuid": "5a7cb0e9-ae9e-4feb-85e9-e9002107a746",
+          "id": "5a7cb0e9-ae9e-4feb-85e9-e9002107a746",
+          "cor": "#88adb0",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "LocalDateTime1",
+          "uuid": "acf86d8f-5a77-49a2-8dc2-0643f18ecc50",
+          "id": "acf86d8f-5a77-49a2-8dc2-0643f18ecc50",
+          "cor": "#88adb0",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "LocalTime1",
+          "uuid": "5ac3f7cb-1dde-4ed5-9e3e-b784b0ef9d00",
+          "id": "5ac3f7cb-1dde-4ed5-9e3e-b784b0ef9d00",
+          "cor": "#88adb0",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Super",
+      "uuid": "98d39ec3-3854-4aea-bebd-98619cd5193f",
+      "id": "98d39ec3-3854-4aea-bebd-98619cd5193f",
+      "cor": "#fd4ba5",
+      "children": [
+        {
+          "name": "SuperRunner",
+          "uuid": "ece7b33d-ce2d-4670-9f19-1787fd9744ae",
+          "id": "ece7b33d-ce2d-4670-9f19-1787fd9744ae",
+          "cor": "#fd4ba5",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Lock",
+      "uuid": "156a9224-e23b-4671-8361-7990a6503bf2",
+      "id": "156a9224-e23b-4671-8361-7990a6503bf2",
+      "cor": "#5aa176",
+      "children": [
+        {
+          "name": "Lock6",
+          "uuid": "5405d68f-bf8f-45ce-a8f8-e4bdd80f5098",
+          "id": "5405d68f-bf8f-45ce-a8f8-e4bdd80f5098",
+          "cor": "#5aa176",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Lock4",
+          "uuid": "a776b1ed-ec83-45ea-a964-b0cbedf8c3ed",
+          "id": "a776b1ed-ec83-45ea-a964-b0cbedf8c3ed",
+          "cor": "#5aa176",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Lock3",
+          "uuid": "6fa3b896-0923-4958-a00a-175aa8cbe7ff",
+          "id": "6fa3b896-0923-4958-a00a-175aa8cbe7ff",
+          "cor": "#5aa176",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Lock1",
+          "uuid": "c98396e4-5f3b-4889-a532-fed0095710a6",
+          "id": "c98396e4-5f3b-4889-a532-fed0095710a6",
+          "cor": "#5aa176",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Lock5",
+          "uuid": "e67c4a73-9c30-4e62-8ba1-af0715630565",
+          "id": "e67c4a73-9c30-4e62-8ba1-af0715630565",
+          "cor": "#5aa176",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Lock2",
+          "uuid": "50aa951b-81bc-4d1e-891e-99760d8d04cf",
+          "id": "50aa951b-81bc-4d1e-891e-99760d8d04cf",
+          "cor": "#5aa176",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Threads",
+      "uuid": "1179e792-c952-4f43-b3a6-d7fc298ed6c7",
+      "id": "1179e792-c952-4f43-b3a6-d7fc298ed6c7",
+      "cor": "#08cd7b",
+      "children": [
+        {
+          "name": "Threads1",
+          "uuid": "d49f0cc4-00cb-4dac-b6d7-036bef6cfe5f",
+          "id": "d49f0cc4-00cb-4dac-b6d7-036bef6cfe5f",
+          "cor": "#08cd7b",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Nashorn",
+      "uuid": "29620f6e-186b-4ef2-a80e-4c10d0b665ad",
+      "id": "29620f6e-186b-4ef2-a80e-4c10d0b665ad",
+      "cor": "#c5a260",
+      "children": [
+        {
+          "name": "Nashorn6",
+          "uuid": "cb1a865b-e898-481f-a38a-763ae9226b68",
+          "id": "cb1a865b-e898-481f-a38a-763ae9226b68",
+          "cor": "#c5a260",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Nashorn5",
+          "uuid": "d2b79f58-fe32-41ac-9da6-64e3749f6473",
+          "id": "d2b79f58-fe32-41ac-9da6-64e3749f6473",
+          "cor": "#c5a260",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Nashorn8",
+          "uuid": "704dfa88-feca-4f95-bbcc-90ad825f048e",
+          "id": "704dfa88-feca-4f95-bbcc-90ad825f048e",
+          "cor": "#c5a260",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Nashorn9",
+          "uuid": "9348f790-0b9f-495d-904f-5ba2066b1a40",
+          "id": "9348f790-0b9f-495d-904f-5ba2066b1a40",
+          "cor": "#c5a260",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Nashorn1",
+          "uuid": "7d8c5f3e-ff86-492f-b48d-85bc0b24a49a",
+          "id": "7d8c5f3e-ff86-492f-b48d-85bc0b24a49a",
+          "cor": "#c5a260",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Nashorn11",
+          "uuid": "7f1ee5b5-5c2a-4e5c-b951-c0b2109680f6",
+          "id": "7f1ee5b5-5c2a-4e5c-b951-c0b2109680f6",
+          "cor": "#c5a260",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Nashorn3",
+          "uuid": "8c54bd10-b97f-47a7-825f-bc0eae2d7a2f",
+          "id": "8c54bd10-b97f-47a7-825f-bc0eae2d7a2f",
+          "cor": "#c5a260",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Nashorn4",
+          "uuid": "0fa586fb-f0ee-4dfa-b8ce-50b096a6d92b",
+          "id": "0fa586fb-f0ee-4dfa-b8ce-50b096a6d92b",
+          "cor": "#c5a260",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Nashorn10",
+          "uuid": "1030896a-2189-4454-a3ee-809866ba7961",
+          "id": "1030896a-2189-4454-a3ee-809866ba7961",
+          "cor": "#c5a260",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Nashorn2",
+          "uuid": "63f81d27-50fe-4bd8-aa32-6b13f0fc8da8",
+          "id": "63f81d27-50fe-4bd8-aa32-6b13f0fc8da8",
+          "cor": "#c5a260",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Nashorn7",
+          "uuid": "48f7a5a2-55b1-4c84-97b5-16494980b229",
+          "id": "48f7a5a2-55b1-4c84-97b5-16494980b229",
+          "cor": "#c5a260",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Files",
+      "uuid": "7fa6d765-7144-46fb-a752-58e57bcfa6c2",
+      "id": "7fa6d765-7144-46fb-a752-58e57bcfa6c2",
+      "cor": "#919a9c",
+      "children": [
+        {
+          "name": "Files1",
+          "uuid": "e76f0e64-6055-4356-a9c5-9af7369fe889",
+          "id": "e76f0e64-6055-4356-a9c5-9af7369fe889",
+          "cor": "#919a9c",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Checked",
+      "uuid": "501521ed-e66b-4681-815c-3c36c089af50",
+      "id": "501521ed-e66b-4681-815c-3c36c089af50",
+      "cor": "#a79bcb",
+      "children": [
+        {
+          "name": "CheckedFunctions",
+          "uuid": "0cbc96d2-089f-4bf2-9d10-7d7ea452a92e",
+          "id": "0cbc96d2-089f-4bf2-9d10-7d7ea452a92e",
+          "cor": "#a79bcb",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Streams",
+      "uuid": "dd0c6a97-d17a-4168-beec-af023889625c",
+      "id": "dd0c6a97-d17a-4168-beec-af023889625c",
+      "cor": "#d8b42d",
+      "children": [
+        {
+          "name": "Streams7",
+          "uuid": "de41954d-16c3-4e69-94f8-31c86ced858a",
+          "id": "de41954d-16c3-4e69-94f8-31c86ced858a",
+          "cor": "#d8b42d",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Streams3",
+          "uuid": "9fa21ba6-1479-4691-938b-e0398676b68f",
+          "id": "9fa21ba6-1479-4691-938b-e0398676b68f",
+          "cor": "#d8b42d",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Streams11",
+          "uuid": "53d385b5-a85c-4462-b0d3-6ce1fff2e5ac",
+          "id": "53d385b5-a85c-4462-b0d3-6ce1fff2e5ac",
+          "cor": "#d8b42d",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Streams10",
+          "uuid": "65bb04d4-0fcc-4c88-82ea-33f9d9929cd6",
+          "id": "65bb04d4-0fcc-4c88-82ea-33f9d9929cd6",
+          "cor": "#d8b42d",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Streams6",
+          "uuid": "b1d7b00c-faad-45aa-a9d8-60cb8baee47c",
+          "id": "b1d7b00c-faad-45aa-a9d8-60cb8baee47c",
+          "cor": "#d8b42d",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Streams8",
+          "uuid": "d8becb94-8a67-4015-8942-454d1c7070b1",
+          "id": "d8becb94-8a67-4015-8942-454d1c7070b1",
+          "cor": "#d8b42d",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Streams12",
+          "uuid": "5a5e2412-8fd4-4fb0-9c3e-10d9ed2e31ec",
+          "id": "5a5e2412-8fd4-4fb0-9c3e-10d9ed2e31ec",
+          "cor": "#d8b42d",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Streams1",
+          "uuid": "8bbb46fa-94ac-4940-a7e9-28777d452900",
+          "id": "8bbb46fa-94ac-4940-a7e9-28777d452900",
+          "cor": "#d8b42d",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Streams5",
+          "uuid": "129a5a14-bee7-4302-993b-6b5138039364",
+          "id": "129a5a14-bee7-4302-993b-6b5138039364",
+          "cor": "#d8b42d",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Streams2",
+          "uuid": "2184444b-d448-4fa2-b8b9-aec3a6eebb7e",
+          "id": "2184444b-d448-4fa2-b8b9-aec3a6eebb7e",
+          "cor": "#d8b42d",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Streams9",
+          "uuid": "272872f1-5849-42bd-afbf-13d309b5d591",
+          "id": "272872f1-5849-42bd-afbf-13d309b5d591",
+          "cor": "#d8b42d",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Streams4",
+          "uuid": "190f5247-e6c0-4301-a97b-1250cc645d2a",
+          "id": "190f5247-e6c0-4301-a97b-1250cc645d2a",
+          "cor": "#d8b42d",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Streams13",
+          "uuid": "16c20c31-36a4-4990-ad01-aebf6a94df2e",
+          "id": "16c20c31-36a4-4990-ad01-aebf6a94df2e",
+          "cor": "#d8b42d",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Synchronized",
+      "uuid": "00b24e82-e3bb-439f-a843-571919e65800",
+      "id": "00b24e82-e3bb-439f-a843-571919e65800",
+      "cor": "#9027ae",
+      "children": [
+        {
+          "name": "Synchronized1",
+          "uuid": "60f5915d-887a-4625-bcc1-89b29b4e4180",
+          "id": "60f5915d-887a-4625-bcc1-89b29b4e4180",
+          "cor": "#9027ae",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Synchronized2",
+          "uuid": "9f0b1827-9e29-4c98-81a9-5caeaee77995",
+          "id": "9f0b1827-9e29-4c98-81a9-5caeaee77995",
+          "cor": "#9027ae",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Semaphore",
+      "uuid": "7a27955e-08e6-4b9d-8d50-61461bed592a",
+      "id": "7a27955e-08e6-4b9d-8d50-61461bed592a",
+      "cor": "#995ecd",
+      "children": [
+        {
+          "name": "Semaphore2",
+          "uuid": "95e16f93-1f4e-4757-99e5-e4b32c1ccebc",
+          "id": "95e16f93-1f4e-4757-99e5-e4b32c1ccebc",
+          "cor": "#995ecd",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Semaphore1",
+          "uuid": "6822817a-e8b7-42ba-88b3-30bed0293053",
+          "id": "6822817a-e8b7-42ba-88b3-30bed0293053",
+          "cor": "#995ecd",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Something",
+      "uuid": "58fcdc69-3750-4418-a8a0-b4b2e12111b0",
+      "id": "58fcdc69-3750-4418-a8a0-b4b2e12111b0",
+      "cor": "#04a5b1",
+      "children": [
+        {
+          "name": "Something",
+          "uuid": "771473c8-4f9c-4de9-b790-31bd11bcfe3c",
+          "id": "771473c8-4f9c-4de9-b790-31bd11bcfe3c",
+          "cor": "#04a5b1",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Outer",
+      "uuid": "f603cb2e-2f11-4bd7-ae2c-44dda5efafc6",
+      "id": "f603cb2e-2f11-4bd7-ae2c-44dda5efafc6",
+      "cor": "#d7194a",
+      "children": [
+        {
+          "name": "Outer",
+          "uuid": "f03edc16-3853-44cd-a2cf-8d811ceebae9",
+          "id": "f03edc16-3853-44cd-a2cf-8d811ceebae9",
+          "cor": "#d7194a",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Concurrent",
+      "uuid": "be918476-5aa8-4bba-9f23-57e034034354",
+      "id": "be918476-5aa8-4bba-9f23-57e034034354",
+      "cor": "#65c098",
+      "children": [
+        {
+          "name": "ConcurrentUtils",
+          "uuid": "cdb45d3f-f517-4a97-9ebd-df7fb6d031e5",
+          "id": "cdb45d3f-f517-4a97-9ebd-df7fb6d031e5",
+          "cor": "#65c098",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "ConcurrentHashMap1",
+          "uuid": "d5fc516b-a97d-413b-a9ea-7212b007ed7c",
+          "id": "d5fc516b-a97d-413b-a9ea-7212b007ed7c",
+          "cor": "#65c098",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Inner",
+      "uuid": "cc4c4836-4958-4867-ab4d-43ed99d319f5",
+      "id": "cc4c4836-4958-4867-ab4d-43ed99d319f5",
+      "cor": "#ce21af",
+      "children": [
+        {
+          "name": "Inner",
+          "uuid": "652dc613-23e9-4f0f-878d-7666cde837e6",
+          "id": "652dc613-23e9-4f0f-878d-7666cde837e6",
+          "cor": "#ce21af",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Bar",
+      "uuid": "8549b9a1-143e-4e85-bd18-d2e1cc690193",
+      "id": "8549b9a1-143e-4e85-bd18-d2e1cc690193",
+      "cor": "#485ac9",
+      "children": [
+        {
+          "name": "Bar",
+          "uuid": "18efc536-ca59-4abd-a39f-83d037eb938f",
+          "id": "18efc536-ca59-4abd-a39f-83d037eb938f",
+          "cor": "#485ac9",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Completable",
+      "uuid": "38973d52-3684-4fc2-8a56-2fce91030971",
+      "id": "38973d52-3684-4fc2-8a56-2fce91030971",
+      "cor": "#4b3361",
+      "children": [
+        {
+          "name": "CompletableFuture1",
+          "uuid": "1852a641-5811-4320-88f6-e4fa0476a5ab",
+          "id": "1852a641-5811-4320-88f6-e4fa0476a5ab",
+          "cor": "#4b3361",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Foo",
+      "uuid": "99a3b609-2ee5-4250-ad2a-70444a2d96c6",
+      "id": "99a3b609-2ee5-4250-ad2a-70444a2d96c6",
+      "cor": "#bfecd6",
+      "children": [
+        {
+          "name": "Foo",
+          "uuid": "94b5bbf6-3ea0-4ac3-82a0-877b2e91b34b",
+          "id": "94b5bbf6-3ea0-4ac3-82a0-877b2e91b34b",
+          "cor": "#bfecd6",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Misc",
+      "uuid": "27655691-cffc-4b94-a716-2702238020df",
+      "id": "27655691-cffc-4b94-a716-2702238020df",
+      "cor": "#376746",
+      "children": [
+        {
+          "name": "Misc",
+          "uuid": "4395c581-ef20-469e-a911-148aaaf4af88",
+          "id": "4395c581-ef20-469e-a911-148aaaf4af88",
+          "cor": "#376746",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Concurrency",
+      "uuid": "3ea136c9-24ff-47c8-8498-b590bee01717",
+      "id": "3ea136c9-24ff-47c8-8498-b590bee01717",
+      "cor": "#ec45a3",
+      "children": [
+        {
+          "name": "Concurrency1",
+          "uuid": "3f68a276-7512-4547-9464-fe24007a992e",
+          "id": "3f68a276-7512-4547-9464-fe24007a992e",
+          "cor": "#ec45a3",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Optional",
+      "uuid": "3740fbdf-6a05-4ef6-9391-70f0250fe510",
+      "id": "3740fbdf-6a05-4ef6-9391-70f0250fe510",
+      "cor": "#ced7f0",
+      "children": [
+        {
+          "name": "Optional2",
+          "uuid": "5ce834df-24f3-48c9-9bd7-0c22cb06926c",
+          "id": "5ce834df-24f3-48c9-9bd7-0c22cb06926c",
+          "cor": "#ced7f0",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Optional1",
+          "uuid": "163bfda8-14ed-4ba5-a06d-73a46a5add34",
+          "id": "163bfda8-14ed-4ba5-a06d-73a46a5add34",
+          "cor": "#ced7f0",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    }
+  ],
+  "value": 10
+}

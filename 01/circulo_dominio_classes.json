@@ -1,0 +1,2641 @@
+{
+  "name": "DDV",
+  "uuid": "123456",
+  "id": "123456",
+  "cor": "#fff",
+  "children": [
+    {
+      "name": "List",
+      "uuid": "9fdceb83-fb50-4b2a-ac08-4ae8f0b0b6f5",
+      "id": "9fdceb83-fb50-4b2a-ac08-4ae8f0b0b6f5",
+      "cor": "#73c4f9",
+      "children": [
+        {
+          "name": "ListMother",
+          "uuid": "a67b5c42-801b-425e-a745-6c1b627b4fe3",
+          "id": "a67b5c42-801b-425e-a745-6c1b627b4fe3",
+          "cor": "#73c4f9",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Java",
+      "uuid": "7a64373b-4efc-471c-b07f-cc2e65eac560",
+      "id": "7a64373b-4efc-471c-b07f-cc2e65eac560",
+      "cor": "#b0c586",
+      "children": [
+        {
+          "name": "JavaUuidGenerator",
+          "uuid": "784d5896-8c2c-40b1-830f-f7174d074da5",
+          "id": "784d5896-8c2c-40b1-830f-f7174d074da5",
+          "cor": "#b0c586",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Last",
+      "uuid": "b25c88f9-2ebd-48f5-be83-f251805287ce",
+      "id": "b25c88f9-2ebd-48f5-be83-f251805287ce",
+      "cor": "#8532e6",
+      "children": [
+        {
+          "name": "LastCoursesSearcher",
+          "uuid": "4ef56402-ae24-4d84-ba3d-8da2158ec410",
+          "id": "4ef56402-ae24-4d84-ba3d-8da2158ec410",
+          "cor": "#8532e6",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Hibernate",
+      "uuid": "70662a29-a76c-44fd-b543-a82e7fd6a630",
+      "id": "70662a29-a76c-44fd-b543-a82e7fd6a630",
+      "cor": "#9066a0",
+      "children": [
+        {
+          "name": "HibernateRepository",
+          "uuid": "9941ae9e-7cf1-44ac-a8d7-faf8e5b98431",
+          "id": "9941ae9e-7cf1-44ac-a8d7-faf8e5b98431",
+          "cor": "#9066a0",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "HibernateConfigurationFactory",
+          "uuid": "a8c64c98-67f3-4833-bb6d-bce3759d0015",
+          "id": "a8c64c98-67f3-4833-bb6d-bce3759d0015",
+          "cor": "#9066a0",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "HibernateCriteriaConverter",
+          "uuid": "8a8f4c4e-5545-4b8a-97a2-35e1814d38d5",
+          "id": "8a8f4c4e-5545-4b8a-97a2-35e1814d38d5",
+          "cor": "#9066a0",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Filters",
+      "uuid": "d9917d50-d136-4686-8114-bc3cd7fa458b",
+      "id": "d9917d50-d136-4686-8114-bc3cd7fa458b",
+      "cor": "#f5f153",
+      "children": [
+        {
+          "name": "Filters",
+          "uuid": "c48524f1-b77a-425c-bdf8-f119f4fceb35",
+          "id": "c48524f1-b77a-425c-bdf8-f119f4fceb35",
+          "cor": "#f5f153",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Integer",
+      "uuid": "60549afe-9fdf-4589-a153-d8e0c64b4d81",
+      "id": "60549afe-9fdf-4589-a153-d8e0c64b4d81",
+      "cor": "#0b594f",
+      "children": [
+        {
+          "name": "IntegerMother",
+          "uuid": "e133191e-3891-474c-b496-80fdde216355",
+          "id": "e133191e-3891-474c-b496-80fdde216355",
+          "cor": "#0b594f",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Domain",
+      "uuid": "a9527b07-da4a-4c5b-a05f-4c3f164ae0a5",
+      "id": "a9527b07-da4a-4c5b-a05f-4c3f164ae0a5",
+      "cor": "#cec52e",
+      "children": [
+        {
+          "name": "DomainEvent",
+          "uuid": "35b39bf7-d035-4eff-8f1d-47b821ed553d",
+          "id": "35b39bf7-d035-4eff-8f1d-47b821ed553d",
+          "cor": "#cec52e",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "DomainEventStorer",
+          "uuid": "b245827d-76bf-4b9b-b486-f3b4fbedd575",
+          "id": "b245827d-76bf-4b9b-b486-f3b4fbedd575",
+          "cor": "#cec52e",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "DomainEventSubscriberInformation",
+          "uuid": "3300bbc4-e12e-4c17-90d1-dcd452680f55",
+          "id": "3300bbc4-e12e-4c17-90d1-dcd452680f55",
+          "cor": "#cec52e",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "DomainEventJsonSerializer",
+          "uuid": "8a0ee5dd-20a3-4e7c-9062-86a3a7225406",
+          "id": "8a0ee5dd-20a3-4e7c-9062-86a3a7225406",
+          "cor": "#cec52e",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "DomainEventSubscribersInformation",
+          "uuid": "9e41e8e8-c56c-4e01-93e2-21f6a4e1170d",
+          "id": "9e41e8e8-c56c-4e01-93e2-21f6a4e1170d",
+          "cor": "#cec52e",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "DomainEventsInformation",
+          "uuid": "941e1092-4759-41ad-98e6-195c5ee93e71",
+          "id": "941e1092-4759-41ad-98e6-195c5ee93e71",
+          "cor": "#cec52e",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "DomainEventJsonDeserializer",
+          "uuid": "6a235ae1-66c9-4a6c-8541-1f7eaa5d12ad",
+          "id": "6a235ae1-66c9-4a6c-8541-1f7eaa5d12ad",
+          "cor": "#cec52e",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "DomainError",
+          "uuid": "a2db52cb-330e-44ca-86f1-53495d3b8254",
+          "id": "a2db52cb-330e-44ca-86f1-53495d3b8254",
+          "cor": "#cec52e",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Validator",
+      "uuid": "a5f3ecb0-3248-4863-806d-bea38ef2a9ab",
+      "id": "a5f3ecb0-3248-4863-806d-bea38ef2a9ab",
+      "cor": "#0e50d9",
+      "children": [
+        {
+          "name": "ValidatorNotExist",
+          "uuid": "db929f7f-6383-4da3-9499-205f07aedd5b",
+          "id": "db929f7f-6383-4da3-9499-205f07aedd5b",
+          "cor": "#0e50d9",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Validator",
+          "uuid": "bf45f9cb-e216-4386-8492-c93fa2a16e7d",
+          "id": "bf45f9cb-e216-4386-8492-c93fa2a16e7d",
+          "cor": "#0e50d9",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Video",
+      "uuid": "1d51560d-ebbb-46a8-a992-bded96c6c171",
+      "id": "1d51560d-ebbb-46a8-a992-bded96c6c171",
+      "cor": "#7afd54",
+      "children": [
+        {
+          "name": "VideoStepMother",
+          "uuid": "27a09ebb-387c-4b62-a73a-7aef6ce92649",
+          "id": "27a09ebb-387c-4b62-a73a-7aef6ce92649",
+          "cor": "#7afd54",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "VideoStep",
+          "uuid": "22655e7e-40f4-47f5-a37d-edf11bb23d36",
+          "id": "22655e7e-40f4-47f5-a37d-edf11bb23d36",
+          "cor": "#7afd54",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "VideoStepTextMother",
+          "uuid": "89e29069-c0ca-44f9-b96b-f9b255a66576",
+          "id": "89e29069-c0ca-44f9-b96b-f9b255a66576",
+          "cor": "#7afd54",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "VideoStepText",
+          "uuid": "0da7467f-4149-4690-946e-27f410cae36d",
+          "id": "0da7467f-4149-4690-946e-27f410cae36d",
+          "cor": "#7afd54",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "VideoUrlMother",
+          "uuid": "bb8dce3f-05bf-4180-8966-0fb0c59267d1",
+          "id": "bb8dce3f-05bf-4180-8966-0fb0c59267d1",
+          "cor": "#7afd54",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "VideoUrl",
+          "uuid": "cb1805d1-01c4-4be8-b1dd-7d9ec9bf8198",
+          "id": "cb1805d1-01c4-4be8-b1dd-7d9ec9bf8198",
+          "cor": "#7afd54",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Course",
+      "uuid": "88b35275-014b-4301-85ec-c03c4cbf8157",
+      "id": "88b35275-014b-4301-85ec-c03c4cbf8157",
+      "cor": "#d901af",
+      "children": [
+        {
+          "name": "CourseIdMother",
+          "uuid": "c5b4ad45-2e82-4a79-ac3d-17461309e3d3",
+          "id": "c5b4ad45-2e82-4a79-ac3d-17461309e3d3",
+          "cor": "#d901af",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CourseId",
+          "uuid": "c856cd7d-9247-4a9b-a5ee-bc770a4cf885",
+          "id": "c856cd7d-9247-4a9b-a5ee-bc770a4cf885",
+          "cor": "#d901af",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CourseDurationMother",
+          "uuid": "0ca4d379-39c9-483f-882e-535a2025b3a1",
+          "id": "0ca4d379-39c9-483f-882e-535a2025b3a1",
+          "cor": "#d901af",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CourseDuration",
+          "uuid": "c03716db-6896-4656-8408-9a117d94d32b",
+          "id": "c03716db-6896-4656-8408-9a117d94d32b",
+          "cor": "#d901af",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CourseMother",
+          "uuid": "2bfd17b2-cee9-4a25-8e94-26fb0be948cd",
+          "id": "2bfd17b2-cee9-4a25-8e94-26fb0be948cd",
+          "cor": "#d901af",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Course",
+          "uuid": "afc8f438-911b-4e5e-a388-ec2041f408f9",
+          "id": "afc8f438-911b-4e5e-a388-ec2041f408f9",
+          "cor": "#d901af",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CourseCreatedDomainEventMother",
+          "uuid": "c1039d3d-d1ee-44f9-9eba-a60de4e97b39",
+          "id": "c1039d3d-d1ee-44f9-9eba-a60de4e97b39",
+          "cor": "#d901af",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CourseCreatedDomainEvent",
+          "uuid": "8a4eb209-ef2b-4fb8-acc5-1132040661f8",
+          "id": "8a4eb209-ef2b-4fb8-acc5-1132040661f8",
+          "cor": "#d901af",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CourseNameMother",
+          "uuid": "724ca976-9cc5-4584-8fb4-0a3af29a8eb9",
+          "id": "724ca976-9cc5-4584-8fb4-0a3af29a8eb9",
+          "cor": "#d901af",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CourseName",
+          "uuid": "77c65efd-acbf-4d64-ba54-2118ea6284a7",
+          "id": "77c65efd-acbf-4d64-ba54-2118ea6284a7",
+          "cor": "#d901af",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CourseResponseMother",
+          "uuid": "01992ec6-69e7-466e-adfd-bb860178ff88",
+          "id": "01992ec6-69e7-466e-adfd-bb860178ff88",
+          "cor": "#d901af",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CourseResponse",
+          "uuid": "211b7978-ea98-4e9e-8fbc-e96cf65abd23",
+          "id": "211b7978-ea98-4e9e-8fbc-e96cf65abd23",
+          "cor": "#d901af",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CourseNotExist",
+          "uuid": "67572072-87dc-4194-8678-d3ecf500007d",
+          "id": "67572072-87dc-4194-8678-d3ecf500007d",
+          "cor": "#d901af",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CourseFinder",
+          "uuid": "ca59fb5f-2b10-4b27-8bec-87e4583d0e63",
+          "id": "ca59fb5f-2b10-4b27-8bec-87e4583d0e63",
+          "cor": "#d901af",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CourseCreator",
+          "uuid": "4e53f293-fee9-48a2-9496-6ccf8001bb46",
+          "id": "4e53f293-fee9-48a2-9496-6ccf8001bb46",
+          "cor": "#d901af",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CourseGetControllerShould",
+          "uuid": "4faf310b-3ec8-4b59-8cdf-14582ebe9fca",
+          "id": "4faf310b-3ec8-4b59-8cdf-14582ebe9fca",
+          "cor": "#d901af",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CourseGetController",
+          "uuid": "1fa2c3fa-4268-4254-a051-aa370f286457",
+          "id": "1fa2c3fa-4268-4254-a051-aa370f286457",
+          "cor": "#d901af",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Student",
+      "uuid": "c5f6d983-bab3-4f20-b042-71f28817d64b",
+      "id": "c5f6d983-bab3-4f20-b042-71f28817d64b",
+      "cor": "#125bd6",
+      "children": [
+        {
+          "name": "StudentResponse",
+          "uuid": "60e1c984-59f4-4d87-b623-838284183c16",
+          "id": "60e1c984-59f4-4d87-b623-838284183c16",
+          "cor": "#125bd6",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "StudentIdMother",
+          "uuid": "3150d9fd-2de3-4f13-86c2-592e4d578ff9",
+          "id": "3150d9fd-2de3-4f13-86c2-592e4d578ff9",
+          "cor": "#125bd6",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "StudentId",
+          "uuid": "68f46a16-8798-48c7-bc55-d5f6002559a4",
+          "id": "68f46a16-8798-48c7-bc55-d5f6002559a4",
+          "cor": "#125bd6",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "StudentResponseMother",
+          "uuid": "38ceaea2-ebbd-4498-ab2e-6da2dc11aa6c",
+          "id": "38ceaea2-ebbd-4498-ab2e-6da2dc11aa6c",
+          "cor": "#125bd6",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Student",
+          "uuid": "a5912b6c-760b-4ba6-aa10-bb29e6dea893",
+          "id": "a5912b6c-760b-4ba6-aa10-bb29e6dea893",
+          "cor": "#125bd6",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Query",
+      "uuid": "cf16a452-2c60-4b9e-924a-e761b2b1267a",
+      "id": "cf16a452-2c60-4b9e-924a-e761b2b1267a",
+      "cor": "#dea681",
+      "children": [
+        {
+          "name": "QueryNotRegisteredError",
+          "uuid": "08ad2b3b-e6df-4a54-84ca-ee432d45a558",
+          "id": "08ad2b3b-e6df-4a54-84ca-ee432d45a558",
+          "cor": "#dea681",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "QueryHandlerExecutionError",
+          "uuid": "4a5e7105-082a-4899-b171-c3181a7bfff7",
+          "id": "4a5e7105-082a-4899-b171-c3181a7bfff7",
+          "cor": "#dea681",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "QueryHandlersInformation",
+          "uuid": "7a9c95f3-efd8-4c95-8e96-9da994925879",
+          "id": "7a9c95f3-efd8-4c95-8e96-9da994925879",
+          "cor": "#dea681",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Console",
+      "uuid": "44ab3b59-3f68-4f2f-94cf-382fad58a799",
+      "id": "44ab3b59-3f68-4f2f-94cf-382fad58a799",
+      "cor": "#29d3fb",
+      "children": [
+        {
+          "name": "ConsoleCommand",
+          "uuid": "a4869c37-fa0a-4aa1-8ba0-1e0926da295b",
+          "id": "a4869c37-fa0a-4aa1-8ba0-1e0926da295b",
+          "cor": "#29d3fb",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Not",
+      "uuid": "615a770a-ab83-4a8c-8f26-01332e5e305d",
+      "id": "615a770a-ab83-4a8c-8f26-01332e5e305d",
+      "cor": "#ec2de6",
+      "children": [
+        {
+          "name": "NotEmptyValidator",
+          "uuid": "faed107d-b06a-4311-bf06-ab5fc861a705",
+          "id": "faed107d-b06a-4311-bf06-ab5fc861a705",
+          "cor": "#ec2de6",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Rabbit",
+      "uuid": "d39d30db-859f-4266-9a0a-c3f7e8f20e83",
+      "id": "d39d30db-859f-4266-9a0a-c3f7e8f20e83",
+      "cor": "#450ece",
+      "children": [
+        {
+          "name": "RabbitMqEventBus",
+          "uuid": "17196c3c-8fa6-4e3b-bfbf-01b408bd0c9e",
+          "id": "17196c3c-8fa6-4e3b-bfbf-01b408bd0c9e",
+          "cor": "#450ece",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "RabbitMqEventBusShould",
+          "uuid": "6f4fd748-86d4-4ecc-b471-d2cb2e420725",
+          "id": "6f4fd748-86d4-4ecc-b471-d2cb2e420725",
+          "cor": "#450ece",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "RabbitMqPublisher",
+          "uuid": "e1ee51b0-645a-4546-90a3-328e30eb89bc",
+          "id": "e1ee51b0-645a-4546-90a3-328e30eb89bc",
+          "cor": "#450ece",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "RabbitMqQueueNameFormatter",
+          "uuid": "46a70d74-22bc-4ca0-beb4-b332c8a6d7cb",
+          "id": "46a70d74-22bc-4ca0-beb4-b332c8a6d7cb",
+          "cor": "#450ece",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "RabbitMqDomainEventsConsumer",
+          "uuid": "ded44d37-f0af-4755-8b54-b2ca08e17ee7",
+          "id": "ded44d37-f0af-4755-8b54-b2ca08e17ee7",
+          "cor": "#450ece",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "RabbitMqExchangeNameFormatter",
+          "uuid": "c08b821c-b405-455e-9df4-83fecc1f0460",
+          "id": "c08b821c-b405-455e-9df4-83fecc1f0460",
+          "cor": "#450ece",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "RabbitMqEventBusConfiguration",
+          "uuid": "f7027232-0221-43a2-8934-66e353923a66",
+          "id": "f7027232-0221-43a2-8934-66e353923a66",
+          "cor": "#450ece",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Utils",
+      "uuid": "da170e36-1059-48bf-900e-15477f616ce0",
+      "id": "da170e36-1059-48bf-900e-15477f616ce0",
+      "cor": "#9e1d7d",
+      "children": [
+        {
+          "name": "Utils",
+          "uuid": "38d05912-c1a5-43b2-a4b7-b186f49c4687",
+          "id": "38d05912-c1a5-43b2-a4b7-b186f49c4687",
+          "cor": "#9e1d7d",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Students",
+      "uuid": "993d2627-4004-470f-adfa-587aedbff292",
+      "id": "993d2627-4004-470f-adfa-587aedbff292",
+      "cor": "#1804f1",
+      "children": [
+        {
+          "name": "StudentsResponseMother",
+          "uuid": "73097498-14b7-4946-834e-9a62782960e9",
+          "id": "73097498-14b7-4946-834e-9a62782960e9",
+          "cor": "#1804f1",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "StudentsResponse",
+          "uuid": "2656f7c0-1ad5-4759-91f7-d314fa3360d2",
+          "id": "2656f7c0-1ad5-4759-91f7-d314fa3360d2",
+          "cor": "#1804f1",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Consume",
+      "uuid": "fe5048d3-74ea-4a6c-bca4-e9f22483849c",
+      "id": "fe5048d3-74ea-4a6c-bca4-e9f22483849c",
+      "cor": "#481631",
+      "children": [
+        {
+          "name": "ConsumeMySqlDomainEventsCommand",
+          "uuid": "1d5ec320-ca77-470d-aace-fa1ee8d5681f",
+          "id": "1d5ec320-ca77-470d-aace-fa1ee8d5681f",
+          "cor": "#481631",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "ConsumeRabbitMqDomainEventsCommand",
+          "uuid": "a320ad23-3215-4e04-8639-5b6049b793f5",
+          "id": "a320ad23-3215-4e04-8639-5b6049b793f5",
+          "cor": "#481631",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Aggregate",
+      "uuid": "c205371c-0306-427d-907e-c93b3568d998",
+      "id": "c205371c-0306-427d-907e-c93b3568d998",
+      "cor": "#917a57",
+      "children": [
+        {
+          "name": "AggregateRoot",
+          "uuid": "ec3c7073-4019-40fa-85c3-f27ddcc00697",
+          "id": "ec3c7073-4019-40fa-85c3-f27ddcc00697",
+          "cor": "#917a57",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Order",
+      "uuid": "e274bd46-abf5-4ead-b1f8-573256030f80",
+      "id": "e274bd46-abf5-4ead-b1f8-573256030f80",
+      "cor": "#eb8f1e",
+      "children": [
+        {
+          "name": "OrderBy",
+          "uuid": "d9c9ddd4-078c-4768-8d0a-f1fd628a2664",
+          "id": "d9c9ddd4-078c-4768-8d0a-f1fd628a2664",
+          "cor": "#eb8f1e",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Order",
+          "uuid": "7c5770b6-f6ea-46b1-ba3f-c8add4f7dc87",
+          "id": "7c5770b6-f6ea-46b1-ba3f-c8add4f7dc87",
+          "cor": "#eb8f1e",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Request",
+      "uuid": "48eaa30e-6e29-4bdc-bb22-6c23271f6522",
+      "id": "48eaa30e-6e29-4bdc-bb22-6c23271f6522",
+      "cor": "#2e2ce0",
+      "children": [
+        {
+          "name": "Request",
+          "uuid": "50077968-cb90-4177-8d79-c7c4a36b5d9a",
+          "id": "50077968-cb90-4177-8d79-c7c4a36b5d9a",
+          "cor": "#2e2ce0",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "User",
+      "uuid": "8ed5ea4e-29c7-4be9-a7e1-c26236d57fcb",
+      "id": "8ed5ea4e-29c7-4be9-a7e1-c26236d57fcb",
+      "cor": "#207ad9",
+      "children": [
+        {
+          "name": "UserAuthenticator",
+          "uuid": "bcc0b6e5-2f2c-4031-8042-1ea5ee22233f",
+          "id": "bcc0b6e5-2f2c-4031-8042-1ea5ee22233f",
+          "cor": "#207ad9",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Health",
+      "uuid": "d906114e-f3f6-4c09-aa3b-0151212fd132",
+      "id": "d906114e-f3f6-4c09-aa3b-0151212fd132",
+      "cor": "#dcf516",
+      "children": [
+        {
+          "name": "HealthCheckGetController",
+          "uuid": "c0be9d1c-c4ef-447a-8d29-57dcaa57eb77",
+          "id": "c0be9d1c-c4ef-447a-8d29-57dcaa57eb77",
+          "cor": "#dcf516",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "HealthCheckGetControllerShould",
+          "uuid": "6e052e36-724b-4a56-92c8-8526f096df4d",
+          "id": "6e052e36-724b-4a56-92c8-8526f096df4d",
+          "cor": "#dcf516",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "In",
+      "uuid": "8ba9c36d-7538-4925-b33a-563bdce0235f",
+      "id": "8ba9c36d-7538-4925-b33a-563bdce0235f",
+      "cor": "#61eb5e",
+      "children": [
+        {
+          "name": "InMemoryCourseRepositoryShould",
+          "uuid": "6d6fc70e-ee8d-49f6-a5c5-dcb6c8634601",
+          "id": "6d6fc70e-ee8d-49f6-a5c5-dcb6c8634601",
+          "cor": "#61eb5e",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "InMemoryCacheBackofficeCourseRepository",
+          "uuid": "9a05c50d-ee9d-46e2-9c36-503271816b00",
+          "id": "9a05c50d-ee9d-46e2-9c36-503271816b00",
+          "cor": "#61eb5e",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "InMemoryCourseRepository",
+          "uuid": "1db904d2-a559-4484-a25e-74fbe125762d",
+          "id": "1db904d2-a559-4484-a25e-74fbe125762d",
+          "cor": "#61eb5e",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "InMemoryCacheBackofficeCourseRepositoryShould",
+          "uuid": "9644e73a-5a7c-4de0-8364-569fa13d6a90",
+          "id": "9644e73a-5a7c-4de0-8364-569fa13d6a90",
+          "cor": "#61eb5e",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "InMemoryAuthRepository",
+          "uuid": "efe9772b-4d49-4c9d-b82b-b16ffa7864f8",
+          "id": "efe9772b-4d49-4c9d-b82b-b16ffa7864f8",
+          "cor": "#61eb5e",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "InMemoryStudentRepository",
+          "uuid": "b10ecdd1-b9e0-402e-86d4-ce3ef770884d",
+          "id": "b10ecdd1-b9e0-402e-86d4-ce3ef770884d",
+          "cor": "#61eb5e",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "InMemoryCommandBus",
+          "uuid": "1bca65a4-64db-4c83-a1ed-1b1a148a333f",
+          "id": "1bca65a4-64db-4c83-a1ed-1b1a148a333f",
+          "cor": "#61eb5e",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "InMemoryQueryBus",
+          "uuid": "5fdf2099-7664-4f25-880a-124d95a41509",
+          "id": "5fdf2099-7664-4f25-880a-124d95a41509",
+          "cor": "#61eb5e",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "New",
+      "uuid": "21a69cbd-e40d-4a2d-a904-33dc69ad9d83",
+      "id": "21a69cbd-e40d-4a2d-a904-33dc69ad9d83",
+      "cor": "#5e730a",
+      "children": [
+        {
+          "name": "NewCoursesNewsletterMother",
+          "uuid": "7feb8fff-f339-4763-a2a7-6eeaf3a2aafb",
+          "id": "7feb8fff-f339-4763-a2a7-6eeaf3a2aafb",
+          "cor": "#5e730a",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "NewCoursesNewsletter",
+          "uuid": "4aad6d1c-de98-4f20-a8d9-d414d3f230aa",
+          "id": "4aad6d1c-de98-4f20-a8d9-d414d3f230aa",
+          "cor": "#5e730a",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "NewCoursesNewsletterEmailSentMother",
+          "uuid": "2d2c5011-5607-4677-b1ff-7111101994ad",
+          "id": "2d2c5011-5607-4677-b1ff-7111101994ad",
+          "cor": "#5e730a",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "NewCoursesNewsletterEmailSent",
+          "uuid": "c6996233-9e9c-4ced-90ce-25b13542111c",
+          "id": "c6996233-9e9c-4ced-90ce-25b13542111c",
+          "cor": "#5e730a",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "NewCoursesNewsletterSender",
+          "uuid": "d027b4c5-7db8-4ea6-a6d6-8ccdca713bf0",
+          "id": "d027b4c5-7db8-4ea6-a6d6-8ccdca713bf0",
+          "cor": "#5e730a",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Identifier",
+      "uuid": "9f776185-2f6c-446f-bed8-9b26724c05fc",
+      "id": "9f776185-2f6c-446f-bed8-9b26724c05fc",
+      "cor": "#d167cc",
+      "children": [
+        {
+          "name": "Identifier",
+          "uuid": "7e4df1ab-f76d-4d8e-9831-8e74256e42aa",
+          "id": "7e4df1ab-f76d-4d8e-9831-8e74256e42aa",
+          "cor": "#d167cc",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Increment",
+      "uuid": "912e5cae-11cf-45ff-92d7-e3890ab6b596",
+      "id": "912e5cae-11cf-45ff-92d7-e3890ab6b596",
+      "cor": "#20b7fc",
+      "children": [
+        {
+          "name": "IncrementCoursesCounterOnCourseCreatedShould",
+          "uuid": "1e41b7f6-8ed1-46ae-918c-e0f8b393d088",
+          "id": "1e41b7f6-8ed1-46ae-918c-e0f8b393d088",
+          "cor": "#20b7fc",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "IncrementCoursesCounterOnCourseCreated",
+          "uuid": "64749d6e-76ff-46b1-8ee8-b1ac7409f503",
+          "id": "64749d6e-76ff-46b1-8ee8-b1ac7409f503",
+          "cor": "#20b7fc",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Uuid",
+      "uuid": "736b4f06-c30c-4791-8bf3-09969855fedf",
+      "id": "736b4f06-c30c-4791-8bf3-09969855fedf",
+      "cor": "#11c22b",
+      "children": [
+        {
+          "name": "UuidValidator",
+          "uuid": "32664730-0093-46b3-83d4-571f3ab1540c",
+          "id": "32664730-0093-46b3-83d4-571f3ab1540c",
+          "cor": "#11c22b",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "UuidMother",
+          "uuid": "d5c7c6e8-2a5c-4b19-a48f-21a73ec592d7",
+          "id": "d5c7c6e8-2a5c-4b19-a48f-21a73ec592d7",
+          "cor": "#11c22b",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Create",
+      "uuid": "8ab6a51b-91b8-44ff-8842-90aca0a655a5",
+      "id": "8ab6a51b-91b8-44ff-8842-90aca0a655a5",
+      "cor": "#356b10",
+      "children": [
+        {
+          "name": "CreateCourseCommandHandlerShould",
+          "uuid": "9a2e39b5-4d41-4099-8736-f93d93f65ff3",
+          "id": "9a2e39b5-4d41-4099-8736-f93d93f65ff3",
+          "cor": "#356b10",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CreateCourseCommandHandler",
+          "uuid": "136c0d8f-1e0e-4723-ae15-6bffe4b403c1",
+          "id": "136c0d8f-1e0e-4723-ae15-6bffe4b403c1",
+          "cor": "#356b10",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CreateCourseCommandMother",
+          "uuid": "f6c6c11a-f2e1-4e3e-8281-3ed70f524cb9",
+          "id": "f6c6c11a-f2e1-4e3e-8281-3ed70f524cb9",
+          "cor": "#356b10",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CreateCourseCommand",
+          "uuid": "86ac42c1-c07b-4b74-91bd-39711cda5e58",
+          "id": "86ac42c1-c07b-4b74-91bd-39711cda5e58",
+          "cor": "#356b10",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CreateBackofficeCourseOnCourseCreated",
+          "uuid": "97856ee3-2d15-4cd5-90d2-e63c014466a7",
+          "id": "97856ee3-2d15-4cd5-90d2-e63c014466a7",
+          "cor": "#356b10",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Search",
+      "uuid": "d1f2f281-d053-43ff-b874-69d93fc77be1",
+      "id": "d1f2f281-d053-43ff-b874-69d93fc77be1",
+      "cor": "#d5f6cb",
+      "children": [
+        {
+          "name": "SearchAllStudentsQueryMother",
+          "uuid": "7f61489e-d79e-4ac8-8411-9a750e1a9930",
+          "id": "7f61489e-d79e-4ac8-8411-9a750e1a9930",
+          "cor": "#d5f6cb",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "SearchAllStudentsQuery",
+          "uuid": "c4c78576-8446-4508-9fc3-712ff6a15569",
+          "id": "c4c78576-8446-4508-9fc3-712ff6a15569",
+          "cor": "#d5f6cb",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "SearchLastCoursesQueryMother",
+          "uuid": "8325daee-8750-41ae-ac67-4ee2a032870f",
+          "id": "8325daee-8750-41ae-ac67-4ee2a032870f",
+          "cor": "#d5f6cb",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "SearchLastCoursesQuery",
+          "uuid": "d340109f-77c3-477a-a32e-d0bca3c5f667",
+          "id": "d340109f-77c3-477a-a32e-d0bca3c5f667",
+          "cor": "#d5f6cb",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "SearchAllBackofficeCoursesQuery",
+          "uuid": "685b25bf-85c4-4e22-a719-6fe9b4323300",
+          "id": "685b25bf-85c4-4e22-a719-6fe9b4323300",
+          "cor": "#d5f6cb",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "SearchAllBackofficeCoursesQueryHandler",
+          "uuid": "c45261a0-6512-45a0-b8d1-c8c8ffd74766",
+          "id": "c45261a0-6512-45a0-b8d1-c8c8ffd74766",
+          "cor": "#d5f6cb",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "SearchBackofficeCoursesByCriteriaQuery",
+          "uuid": "8f93fcb6-79ba-48e9-a312-74df927fd898",
+          "id": "8f93fcb6-79ba-48e9-a312-74df927fd898",
+          "cor": "#d5f6cb",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "SearchBackofficeCoursesByCriteriaQueryHandler",
+          "uuid": "5609faf2-f423-49dc-bfcf-001e25af94ba",
+          "id": "5609faf2-f423-49dc-bfcf-001e25af94ba",
+          "cor": "#d5f6cb",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "SearchLastCoursesQueryHandler",
+          "uuid": "18ea0ce9-94c5-4d1b-8dcf-80905ee56a64",
+          "id": "18ea0ce9-94c5-4d1b-8dcf-80905ee56a64",
+          "cor": "#d5f6cb",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "SearchAllStudentsQueryHandler",
+          "uuid": "bccec93a-d02d-44b7-92d0-65d7de341c06",
+          "id": "bccec93a-d02d-44b7-92d0-65d7de341c06",
+          "cor": "#d5f6cb",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Courses",
+      "uuid": "7399c9b6-b6f8-43d3-98e1-b71a2bed70fe",
+      "id": "7399c9b6-b6f8-43d3-98e1-b71a2bed70fe",
+      "cor": "#aa8864",
+      "children": [
+        {
+          "name": "CoursesCounterModuleUnitTestCase",
+          "uuid": "693e2c8c-5b8b-4ccb-9e61-562af3f1a803",
+          "id": "693e2c8c-5b8b-4ccb-9e61-562af3f1a803",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesCounterIdMother",
+          "uuid": "4e248a38-0580-40df-89cb-f6dd64e57005",
+          "id": "4e248a38-0580-40df-89cb-f6dd64e57005",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesCounterId",
+          "uuid": "ff71a5d3-29d8-457b-a110-b0ccffd5a827",
+          "id": "ff71a5d3-29d8-457b-a110-b0ccffd5a827",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesCounterFinder",
+          "uuid": "d1385e07-ba7b-458f-8907-cef463ee37c2",
+          "id": "d1385e07-ba7b-458f-8907-cef463ee37c2",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesCounterTotalMother",
+          "uuid": "0c2cf890-c5c1-4b6a-bc4d-b581b9731a97",
+          "id": "0c2cf890-c5c1-4b6a-bc4d-b581b9731a97",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesCounterTotal",
+          "uuid": "9910d493-5205-42f7-9e51-a5b94b2dd713",
+          "id": "9910d493-5205-42f7-9e51-a5b94b2dd713",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesCounterMother",
+          "uuid": "cbaaa442-d28d-4810-a048-d36bbb3f566a",
+          "id": "cbaaa442-d28d-4810-a048-d36bbb3f566a",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesCounter",
+          "uuid": "f0c44727-c6fb-48a3-a197-7e1c0449fc50",
+          "id": "f0c44727-c6fb-48a3-a197-7e1c0449fc50",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesCounterNotInitialized",
+          "uuid": "51753ec6-23b5-4f94-9843-b1f54790d782",
+          "id": "51753ec6-23b5-4f94-9843-b1f54790d782",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesCounterResponse",
+          "uuid": "5dc8eff2-ce4c-4789-b7ae-3c7b932a8a73",
+          "id": "5dc8eff2-ce4c-4789-b7ae-3c7b932a8a73",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesModuleUnitTestCase",
+          "uuid": "a2a5eab0-6a05-4f9a-8de2-3e133760f0f5",
+          "id": "a2a5eab0-6a05-4f9a-8de2-3e133760f0f5",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesCounterResponseMother",
+          "uuid": "ff9efc20-bd3e-4aac-917b-cdb404092dc5",
+          "id": "ff9efc20-bd3e-4aac-917b-cdb404092dc5",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesCounterIncrementer",
+          "uuid": "3a7ad3eb-448c-496c-8b96-0c3e384988bf",
+          "id": "3a7ad3eb-448c-496c-8b96-0c3e384988bf",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesModuleInfrastructureTestCase",
+          "uuid": "94bbc423-c019-4778-b1c4-328025b79a5b",
+          "id": "94bbc423-c019-4778-b1c4-328025b79a5b",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesResponseMother",
+          "uuid": "14ecc704-8c69-4c67-ac35-7a1da075f107",
+          "id": "14ecc704-8c69-4c67-ac35-7a1da075f107",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesResponse",
+          "uuid": "cd79bcdd-544d-4965-8b52-97c78b3ac8bc",
+          "id": "cd79bcdd-544d-4965-8b52-97c78b3ac8bc",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesCounterModuleInfrastructureTestCase",
+          "uuid": "18b6272a-f71d-41d6-a468-1b5ff5f5f169",
+          "id": "18b6272a-f71d-41d6-a468-1b5ff5f5f169",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesGetWebController",
+          "uuid": "22fdcb63-3821-4a31-8ee4-9ff1643eea12",
+          "id": "22fdcb63-3821-4a31-8ee4-9ff1643eea12",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesPutController",
+          "uuid": "662c3662-7104-4b43-b852-2c6a500f2ea5",
+          "id": "662c3662-7104-4b43-b852-2c6a500f2ea5",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesPostWebController",
+          "uuid": "c7ae6d25-bed3-4ad3-bf7b-2879a1a3ecb0",
+          "id": "c7ae6d25-bed3-4ad3-bf7b-2879a1a3ecb0",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesCounterGetController",
+          "uuid": "7fe39e96-fc9b-4a43-a94c-29575b4a112c",
+          "id": "7fe39e96-fc9b-4a43-a94c-29575b4a112c",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesGetController",
+          "uuid": "244dfaa9-b294-4bf8-9478-161c19ce1edd",
+          "id": "244dfaa9-b294-4bf8-9478-161c19ce1edd",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesPutControllerShould",
+          "uuid": "c34f4295-a4d0-4bca-8609-10770a4622e0",
+          "id": "c34f4295-a4d0-4bca-8609-10770a4622e0",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CoursesCounterGetControllerShould",
+          "uuid": "b30687aa-ea53-47c1-8c38-e62623bee291",
+          "id": "b30687aa-ea53-47c1-8c38-e62623bee291",
+          "cor": "#aa8864",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Auth",
+      "uuid": "b466926e-dc4d-4de9-931d-f6e4f6ef41f0",
+      "id": "b466926e-dc4d-4de9-931d-f6e4f6ef41f0",
+      "cor": "#0cbbc6",
+      "children": [
+        {
+          "name": "AuthPasswordMother",
+          "uuid": "43069ab4-a846-4bd5-a850-3a40fd39078c",
+          "id": "43069ab4-a846-4bd5-a850-3a40fd39078c",
+          "cor": "#0cbbc6",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "AuthPassword",
+          "uuid": "92239ed1-143c-4c6c-bd77-8e5b3f60b801",
+          "id": "92239ed1-143c-4c6c-bd77-8e5b3f60b801",
+          "cor": "#0cbbc6",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "AuthUserMother",
+          "uuid": "970f4a84-a20f-4571-863e-13ca2b8a0787",
+          "id": "970f4a84-a20f-4571-863e-13ca2b8a0787",
+          "cor": "#0cbbc6",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "AuthUser",
+          "uuid": "1ef088f3-a122-474a-b6fe-8a3e0c5994ff",
+          "id": "1ef088f3-a122-474a-b6fe-8a3e0c5994ff",
+          "cor": "#0cbbc6",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "AuthUsernameMother",
+          "uuid": "c251089e-c77c-40a7-8334-667db4905130",
+          "id": "c251089e-c77c-40a7-8334-667db4905130",
+          "cor": "#0cbbc6",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "AuthUsername",
+          "uuid": "29a1b1f1-72c2-49f8-9f26-b10ec6b42eab",
+          "id": "29a1b1f1-72c2-49f8-9f26-b10ec6b42eab",
+          "cor": "#0cbbc6",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "AuthModuleUnitTestCase",
+          "uuid": "5f9682a7-4da3-4c26-a0bf-b78acf956962",
+          "id": "5f9682a7-4da3-4c26-a0bf-b78acf956962",
+          "cor": "#0cbbc6",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Notifications",
+      "uuid": "f7e36be0-4dc2-46df-a921-74c59f4e553e",
+      "id": "f7e36be0-4dc2-46df-a921-74c59f4e553e",
+      "cor": "#399495",
+      "children": [
+        {
+          "name": "NotificationsModuleUnitTestCase",
+          "uuid": "95c723ef-07a5-4145-bc1f-0b8ae67107d6",
+          "id": "95c723ef-07a5-4145-bc1f-0b8ae67107d6",
+          "cor": "#399495",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Newsletter",
+      "uuid": "935dc59d-e1a4-447f-a02d-0bd6df46bffd",
+      "id": "935dc59d-e1a4-447f-a02d-0bd6df46bffd",
+      "cor": "#75ef5f",
+      "children": [
+        {
+          "name": "NewsletterNotificationPutController",
+          "uuid": "6588015b-2ada-46ba-9269-c823eb157a25",
+          "id": "6588015b-2ada-46ba-9269-c823eb157a25",
+          "cor": "#75ef5f",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "NewsletterNotificationPutControllerShould",
+          "uuid": "1f676637-8e81-4b59-a74c-f2bb480514e7",
+          "id": "1f676637-8e81-4b59-a74c-f2bb480514e7",
+          "cor": "#75ef5f",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Validation",
+      "uuid": "058c328f-b5a7-4267-b40a-5c9ceb5928c9",
+      "id": "058c328f-b5a7-4267-b40a-5c9ceb5928c9",
+      "cor": "#a1e37d",
+      "children": [
+        {
+          "name": "ValidationResponse",
+          "uuid": "8693f742-8e48-43e3-bd85-4ac49ba07c3e",
+          "id": "8693f742-8e48-43e3-bd85-4ac49ba07c3e",
+          "cor": "#a1e37d",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "All",
+      "uuid": "d8903efb-5ddb-462e-a56c-63125273afc2",
+      "id": "d8903efb-5ddb-462e-a56c-63125273afc2",
+      "cor": "#2c9999",
+      "children": [
+        {
+          "name": "AllBackofficeCoursesSearcher",
+          "uuid": "792c62c7-87f0-4266-970b-5d9d2e7cb498",
+          "id": "792c62c7-87f0-4266-970b-5d9d2e7cb498",
+          "cor": "#2c9999",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "AllStudentsSearcher",
+          "uuid": "84ef3739-f769-4fd7-b522-091584b1de0b",
+          "id": "84ef3739-f769-4fd7-b522-091584b1de0b",
+          "cor": "#2c9999",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Filter",
+      "uuid": "4dd3fe63-9ce2-4597-ab12-8ef475a6372e",
+      "id": "4dd3fe63-9ce2-4597-ab12-8ef475a6372e",
+      "cor": "#584bfb",
+      "children": [
+        {
+          "name": "Filter",
+          "uuid": "2e764359-4cda-45a2-9494-9080b7bfcde8",
+          "id": "2e764359-4cda-45a2-9494-9080b7bfcde8",
+          "cor": "#584bfb",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "FilterField",
+          "uuid": "65b8f085-485e-4e34-a8fb-e845e80b815b",
+          "id": "65b8f085-485e-4e34-a8fb-e845e80b815b",
+          "cor": "#584bfb",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "FilterValue",
+          "uuid": "17b51170-ed4d-48ea-9dfd-bb38cc145217",
+          "id": "17b51170-ed4d-48ea-9dfd-bb38cc145217",
+          "cor": "#584bfb",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Home",
+      "uuid": "deb36723-9556-4eb7-93ad-032909a4f461",
+      "id": "deb36723-9556-4eb7-93ad-032909a4f461",
+      "cor": "#2305e6",
+      "children": [
+        {
+          "name": "HomeGetWebController",
+          "uuid": "fb967ddd-7a00-4719-b20a-3129bcc8fca2",
+          "id": "fb967ddd-7a00-4719-b20a-3129bcc8fca2",
+          "cor": "#2305e6",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Criteria",
+      "uuid": "764f344c-cf1d-4d0f-aeee-0292e47f2d25",
+      "id": "764f344c-cf1d-4d0f-aeee-0292e47f2d25",
+      "cor": "#e5428c",
+      "children": [
+        {
+          "name": "Criteria",
+          "uuid": "0440115f-fe63-473a-ba16-0819c884ac50",
+          "id": "0440115f-fe63-473a-ba16-0819c884ac50",
+          "cor": "#e5428c",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Environment",
+      "uuid": "b78b2f8e-c533-49c9-8ba5-b007068a0b12",
+      "id": "b78b2f8e-c533-49c9-8ba5-b007068a0b12",
+      "cor": "#9625fd",
+      "children": [
+        {
+          "name": "EnvironmentConfig",
+          "uuid": "0c419f24-64ac-410d-be10-80d5c449e04f",
+          "id": "0c419f24-64ac-410d-be10-80d5c449e04f",
+          "cor": "#9625fd",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Int",
+      "uuid": "3359ce63-f7cf-4dbb-959b-876482bb33d4",
+      "id": "3359ce63-f7cf-4dbb-959b-876482bb33d4",
+      "cor": "#74399a",
+      "children": [
+        {
+          "name": "IntValueObject",
+          "uuid": "5bd50919-798a-45df-8a58-569b78d60dac",
+          "id": "5bd50919-798a-45df-8a58-569b78d60dac",
+          "cor": "#74399a",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Unit",
+      "uuid": "d7f15a3e-8162-4d2b-9cf8-3f56d9e64779",
+      "id": "d7f15a3e-8162-4d2b-9cf8-3f56d9e64779",
+      "cor": "#40654e",
+      "children": [
+        {
+          "name": "UnitTestCase",
+          "uuid": "778ab01d-d3f3-4279-b226-43af8253823b",
+          "id": "778ab01d-d3f3-4279-b226-43af8253823b",
+          "cor": "#40654e",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Step",
+      "uuid": "3eec4ed8-1c38-4889-b618-0d8c993fe8ea",
+      "id": "3eec4ed8-1c38-4889-b618-0d8c993fe8ea",
+      "cor": "#193bfb",
+      "children": [
+        {
+          "name": "StepIdMother",
+          "uuid": "f41ded81-9013-4337-af1d-d98b64d16614",
+          "id": "f41ded81-9013-4337-af1d-d98b64d16614",
+          "cor": "#193bfb",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "StepId",
+          "uuid": "8b53442c-9e32-4090-9396-17b6ec4d5ce9",
+          "id": "8b53442c-9e32-4090-9396-17b6ec4d5ce9",
+          "cor": "#193bfb",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Step",
+          "uuid": "7ab99828-72be-4056-b0d1-0753bb23eb4f",
+          "id": "7ab99828-72be-4056-b0d1-0753bb23eb4f",
+          "cor": "#193bfb",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "StepTitleMother",
+          "uuid": "e96c869d-489c-42c1-bf2e-745e555f0ae2",
+          "id": "e96c869d-489c-42c1-bf2e-745e555f0ae2",
+          "cor": "#193bfb",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "StepTitle",
+          "uuid": "a2e6f360-17ae-4bc4-9021-2b65b9f3d1a2",
+          "id": "a2e6f360-17ae-4bc4-9021-2b65b9f3d1a2",
+          "cor": "#193bfb",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Mother",
+      "uuid": "bf459bcc-9233-45ce-b947-45130ca967d9",
+      "id": "bf459bcc-9233-45ce-b947-45130ca967d9",
+      "cor": "#719cbf",
+      "children": [
+        {
+          "name": "MotherCreator",
+          "uuid": "a5017cd4-458b-42ce-9810-7b34b63ed0aa",
+          "id": "a5017cd4-458b-42ce-9810-7b34b63ed0aa",
+          "cor": "#719cbf",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Find",
+      "uuid": "b9f5a0ec-4580-402f-821c-75d466f4d622",
+      "id": "b9f5a0ec-4580-402f-821c-75d466f4d622",
+      "cor": "#4a188c",
+      "children": [
+        {
+          "name": "FindCoursesCounterQueryHandler",
+          "uuid": "c1431ce5-b741-40f5-a3d4-e0aaa8dac5f9",
+          "id": "c1431ce5-b741-40f5-a3d4-e0aaa8dac5f9",
+          "cor": "#4a188c",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "FindCoursesCounterQuery",
+          "uuid": "9932a2a6-778b-4a82-bff4-8f00368ea71c",
+          "id": "9932a2a6-778b-4a82-bff4-8f00368ea71c",
+          "cor": "#4a188c",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "FindCoursesCounterQueryHandlerShould",
+          "uuid": "6df89e46-1a89-4224-8536-27fcbaebe174",
+          "id": "6df89e46-1a89-4224-8536-27fcbaebe174",
+          "cor": "#4a188c",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "FindCourseQuery",
+          "uuid": "2cf38698-7c52-4f4d-9658-cf92a66794b9",
+          "id": "2cf38698-7c52-4f4d-9658-cf92a66794b9",
+          "cor": "#4a188c",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "FindCourseQueryHandler",
+          "uuid": "6df4763b-d429-4bd8-956c-b4e3090db89f",
+          "id": "6df4763b-d429-4bd8-956c-b4e3090db89f",
+          "cor": "#4a188c",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Steps",
+      "uuid": "a67d39ed-3685-4e1b-8c7b-48e23729de7a",
+      "id": "a67d39ed-3685-4e1b-8c7b-48e23729de7a",
+      "cor": "#544c30",
+      "children": [
+        {
+          "name": "StepsModuleInfrastructureTestCase",
+          "uuid": "d783ff01-8c8f-4b36-9cc9-8184024e3aaa",
+          "id": "d783ff01-8c8f-4b36-9cc9-8184024e3aaa",
+          "cor": "#544c30",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Store",
+      "uuid": "6a84c7a3-c6d4-49ff-b4be-e2e19e4055f1",
+      "id": "6a84c7a3-c6d4-49ff-b4be-e2e19e4055f1",
+      "cor": "#596a52",
+      "children": [
+        {
+          "name": "StoreDomainEventOnOccurred",
+          "uuid": "9ee8e4d3-0529-4382-81ea-7805e5cb0330",
+          "id": "9ee8e4d3-0529-4382-81ea-7805e5cb0330",
+          "cor": "#596a52",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Starter",
+      "uuid": "12d28149-6ba1-4c33-823e-7bd38d57fbf9",
+      "id": "12d28149-6ba1-4c33-823e-7bd38d57fbf9",
+      "cor": "#18219c",
+      "children": [
+        {
+          "name": "Starter",
+          "uuid": "f14319a3-6e77-461e-8ca9-6616c1418223",
+          "id": "f14319a3-6e77-461e-8ca9-6616c1418223",
+          "cor": "#18219c",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Authenticate",
+      "uuid": "539b324b-2439-4ed2-8546-b3077c042475",
+      "id": "539b324b-2439-4ed2-8546-b3077c042475",
+      "cor": "#f40602",
+      "children": [
+        {
+          "name": "AuthenticateUserCommandMother",
+          "uuid": "c8b9313b-b4ff-4cb7-a279-72ed68942beb",
+          "id": "c8b9313b-b4ff-4cb7-a279-72ed68942beb",
+          "cor": "#f40602",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "AuthenticateUserCommand",
+          "uuid": "39f3cd83-07b0-4bd3-aaf3-5a880e8fd160",
+          "id": "39f3cd83-07b0-4bd3-aaf3-5a880e8fd160",
+          "cor": "#f40602",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "AuthenticateUserCommandHandlerShould",
+          "uuid": "a1e03ff8-6afb-443e-8a86-6fde4cb4939f",
+          "id": "a1e03ff8-6afb-443e-8a86-6fde4cb4939f",
+          "cor": "#f40602",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "AuthenticateUserCommandHandler",
+          "uuid": "105019b5-02c1-419e-8328-c2799d075491",
+          "id": "105019b5-02c1-419e-8328-c2799d075491",
+          "cor": "#f40602",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Elasticsearch",
+      "uuid": "ad6a77e2-a7c6-40b2-b6ef-242b3cd1c46d",
+      "id": "ad6a77e2-a7c6-40b2-b6ef-242b3cd1c46d",
+      "cor": "#11047a",
+      "children": [
+        {
+          "name": "ElasticsearchBackofficeCourseRepository",
+          "uuid": "77e1c892-ab17-4a9d-8f2c-43431471c8c1",
+          "id": "77e1c892-ab17-4a9d-8f2c-43431471c8c1",
+          "cor": "#11047a",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "ElasticsearchEnvironmentArranger",
+          "uuid": "3a89f8e4-eacd-40d6-a8d4-d32f2984649e",
+          "id": "3a89f8e4-eacd-40d6-a8d4-d32f2984649e",
+          "cor": "#11047a",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "ElasticsearchBackofficeCourseRepositoryShould",
+          "uuid": "e7612e52-e781-4ef8-b426-ad14abad5b5d",
+          "id": "e7612e52-e781-4ef8-b426-ad14abad5b5d",
+          "cor": "#11047a",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "ElasticsearchRepository",
+          "uuid": "6149f993-2121-4616-830f-eb56d9d7516a",
+          "id": "6149f993-2121-4616-830f-eb56d9d7516a",
+          "cor": "#11047a",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "ElasticsearchCriteriaConverter",
+          "uuid": "b90a2cec-40ea-4925-aebb-8ed6385c8cc6",
+          "id": "b90a2cec-40ea-4925-aebb-8ed6385c8cc6",
+          "cor": "#11047a",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "ElasticsearchClient",
+          "uuid": "e391f1c3-9587-4725-878e-7ddc1ad253e8",
+          "id": "e391f1c3-9587-4725-878e-7ddc1ad253e8",
+          "cor": "#11047a",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Send",
+      "uuid": "dd6377c3-b1ef-40b3-aaa6-af79e4aae06c",
+      "id": "dd6377c3-b1ef-40b3-aaa6-af79e4aae06c",
+      "cor": "#0e02e5",
+      "children": [
+        {
+          "name": "SendNewCoursesNewsletterCommandMother",
+          "uuid": "028a555d-1f67-4d4c-9ca2-528e3e069060",
+          "id": "028a555d-1f67-4d4c-9ca2-528e3e069060",
+          "cor": "#0e02e5",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "SendNewCoursesNewsletterCommand",
+          "uuid": "52952b41-6cff-4bf9-a592-b1e9f4dfa201",
+          "id": "52952b41-6cff-4bf9-a592-b1e9f4dfa201",
+          "cor": "#0e02e5",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "SendNewCoursesNewsletterCommandHandlerShould",
+          "uuid": "faea0bb7-f627-444b-9c00-cf073da1104f",
+          "id": "faea0bb7-f627-444b-9c00-cf073da1104f",
+          "cor": "#0e02e5",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "SendNewCoursesNewsletterCommandHandler",
+          "uuid": "559b35c0-c248-4e99-962d-1e9057b138dd",
+          "id": "559b35c0-c248-4e99-962d-1e9057b138dd",
+          "cor": "#0e02e5",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "String",
+      "uuid": "5d3762bc-467c-4ec4-95fb-5f7801378c89",
+      "id": "5d3762bc-467c-4ec4-95fb-5f7801378c89",
+      "cor": "#0c52ff",
+      "children": [
+        {
+          "name": "StringValidator",
+          "uuid": "72597fe1-07b0-4f74-80ae-55c8757ba4e6",
+          "id": "72597fe1-07b0-4f74-80ae-55c8757ba4e6",
+          "cor": "#0c52ff",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "StringValueObject",
+          "uuid": "ea198111-a879-465b-8b41-77f052543cdf",
+          "id": "ea198111-a879-465b-8b41-77f052543cdf",
+          "cor": "#0c52ff",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Analytics",
+      "uuid": "49d51a0a-1810-41a8-9eb7-9c6dcc9ac5ac",
+      "id": "49d51a0a-1810-41a8-9eb7-9c6dcc9ac5ac",
+      "cor": "#cb458e",
+      "children": [
+        {
+          "name": "AnalyticsDomainEventId",
+          "uuid": "c8d09dfc-783b-4606-b3f4-24846ea544ee",
+          "id": "c8d09dfc-783b-4606-b3f4-24846ea544ee",
+          "cor": "#cb458e",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "AnalyticsDomainEventBody",
+          "uuid": "2b087329-49ab-46d9-b814-4d0424bc85dd",
+          "id": "2b087329-49ab-46d9-b814-4d0424bc85dd",
+          "cor": "#cb458e",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "AnalyticsDomainEventAggregateId",
+          "uuid": "f94d8332-20dd-49e5-bf57-8de33717a51e",
+          "id": "f94d8332-20dd-49e5-bf57-8de33717a51e",
+          "cor": "#cb458e",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "AnalyticsDomainEvent",
+          "uuid": "be101edf-513c-4419-91c3-a39e10bb66de",
+          "id": "be101edf-513c-4419-91c3-a39e10bb66de",
+          "cor": "#cb458e",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "AnalyticsDomainEventName",
+          "uuid": "5e609953-8f80-4285-b608-1c3aeb49fbeb",
+          "id": "5e609953-8f80-4285-b608-1c3aeb49fbeb",
+          "cor": "#cb458e",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Application",
+      "uuid": "d0c38322-2514-46fe-83f0-dc1f09a145c7",
+      "id": "d0c38322-2514-46fe-83f0-dc1f09a145c7",
+      "cor": "#1dfb95",
+      "children": [
+        {
+          "name": "ApplicationTestCase",
+          "uuid": "a1bdad71-ec01-4468-8306-a11c97180cb8",
+          "id": "a1bdad71-ec01-4468-8306-a11c97180cb8",
+          "cor": "#1dfb95",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Parameter",
+      "uuid": "01d30ce2-8d44-42a4-a8bd-449814c81d7c",
+      "id": "01d30ce2-8d44-42a4-a8bd-449814c81d7c",
+      "cor": "#c89291",
+      "children": [
+        {
+          "name": "ParameterNotExist",
+          "uuid": "1095cc85-3aeb-432c-9fd7-954887d6d781",
+          "id": "1095cc85-3aeb-432c-9fd7-954887d6d781",
+          "cor": "#c89291",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Parameter",
+          "uuid": "5746c2ad-3b2a-4a30-80a3-89172f75df4d",
+          "id": "5746c2ad-3b2a-4a30-80a3-89172f75df4d",
+          "cor": "#c89291",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Random",
+      "uuid": "bd5d1c94-d74e-4228-b18f-c5f1cca61e07",
+      "id": "bd5d1c94-d74e-4228-b18f-c5f1cca61e07",
+      "cor": "#b60cff",
+      "children": [
+        {
+          "name": "RandomElementPicker",
+          "uuid": "ed40265f-ff7b-412e-a070-476890f01d9a",
+          "id": "ed40265f-ff7b-412e-a070-476890f01d9a",
+          "cor": "#b60cff",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Spring",
+      "uuid": "b9250a3f-a8d1-4559-8d54-37090071fdaa",
+      "id": "b9250a3f-a8d1-4559-8d54-37090071fdaa",
+      "cor": "#001ee9",
+      "children": [
+        {
+          "name": "SpringApplicationEventBus",
+          "uuid": "b8448a0f-c89c-451f-8461-81205e9933fc",
+          "id": "b8448a0f-c89c-451f-8461-81205e9933fc",
+          "cor": "#001ee9",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Backoffice",
+      "uuid": "c5cc0d9a-7c36-4073-8d84-1ca46752b3e9",
+      "id": "c5cc0d9a-7c36-4073-8d84-1ca46752b3e9",
+      "cor": "#34a4c3",
+      "children": [
+        {
+          "name": "BackofficeContextInfrastructureTestCase",
+          "uuid": "e71d48cd-7096-4930-8b1e-dd121de1fa57",
+          "id": "e71d48cd-7096-4930-8b1e-dd121de1fa57",
+          "cor": "#34a4c3",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "BackofficeCourse",
+          "uuid": "5c78e795-d7a2-4a7b-a539-2177e584f488",
+          "id": "5c78e795-d7a2-4a7b-a539-2177e584f488",
+          "cor": "#34a4c3",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "BackofficeRabbitMqEventBusConfiguration",
+          "uuid": "00cc5f2c-ec5e-438a-916f-24da144edaf1",
+          "id": "00cc5f2c-ec5e-438a-916f-24da144edaf1",
+          "cor": "#34a4c3",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "BackofficeElasticsearchConfiguration",
+          "uuid": "fc7eb69d-18ca-432f-9a9a-9b55ca10593d",
+          "id": "fc7eb69d-18ca-432f-9a9a-9b55ca10593d",
+          "cor": "#34a4c3",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "BackofficeMySqlEventBusConfiguration",
+          "uuid": "b14cd01d-9752-4645-a53d-1518b807480b",
+          "id": "b14cd01d-9752-4645-a53d-1518b807480b",
+          "cor": "#34a4c3",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "BackofficeHibernateConfiguration",
+          "uuid": "c0dad751-051a-4c30-a9dd-995999ce77f3",
+          "id": "c0dad751-051a-4c30-a9dd-995999ce77f3",
+          "cor": "#34a4c3",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "BackofficeCourseMother",
+          "uuid": "410a57a3-ca42-4300-a6f7-ba5f58144570",
+          "id": "410a57a3-ca42-4300-a6f7-ba5f58144570",
+          "cor": "#34a4c3",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "BackofficeCoursesByCriteriaSearcher",
+          "uuid": "c4b78f85-6c71-4812-a8cc-d073cd88d3dc",
+          "id": "c4b78f85-6c71-4812-a8cc-d073cd88d3dc",
+          "cor": "#34a4c3",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "BackofficeCourseCriteriaMother",
+          "uuid": "705faffd-6426-43cc-8774-f95ac643eb9b",
+          "id": "705faffd-6426-43cc-8774-f95ac643eb9b",
+          "cor": "#34a4c3",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "BackofficeCourseCreator",
+          "uuid": "d451225f-3160-4152-838a-31f4a6dc20ed",
+          "id": "d451225f-3160-4152-838a-31f4a6dc20ed",
+          "cor": "#34a4c3",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "BackofficeCoursesResponse",
+          "uuid": "49b582fa-f338-4350-b3e5-0bb8e4004951",
+          "id": "49b582fa-f338-4350-b3e5-0bb8e4004951",
+          "cor": "#34a4c3",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "BackofficeCourseResponse",
+          "uuid": "98de63c4-336f-4402-a3e3-e151d92cdae5",
+          "id": "98de63c4-336f-4402-a3e3-e151d92cdae5",
+          "cor": "#34a4c3",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "BackofficeFrontendWebConfig",
+          "uuid": "a4b75ce1-806f-45b2-810c-e31b6b8da2a1",
+          "id": "a4b75ce1-806f-45b2-810c-e31b6b8da2a1",
+          "cor": "#34a4c3",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "BackofficeFrontendServerPortCustomizer",
+          "uuid": "040b1892-88a1-4f80-8ce5-0624be84aabc",
+          "id": "040b1892-88a1-4f80-8ce5-0624be84aabc",
+          "cor": "#34a4c3",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "BackofficeFrontendApplication",
+          "uuid": "77071edf-3692-4e75-97f3-b1d687c4632b",
+          "id": "77071edf-3692-4e75-97f3-b1d687c4632b",
+          "cor": "#34a4c3",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "BackofficeBackendApplication",
+          "uuid": "bbcd5db6-5392-459e-9563-2931efedbe2d",
+          "id": "bbcd5db6-5392-459e-9563-2931efedbe2d",
+          "cor": "#34a4c3",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "BackofficeBackendServerConfiguration",
+          "uuid": "aa47d128-9faf-4503-b769-8af78db6b473",
+          "id": "aa47d128-9faf-4503-b769-8af78db6b473",
+          "cor": "#34a4c3",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "BackofficeBackendServerPortCustomizer",
+          "uuid": "85c9515f-b8c1-438f-a8a6-bf764d33ec97",
+          "id": "85c9515f-b8c1-438f-a8a6-bf764d33ec97",
+          "cor": "#34a4c3",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "BackofficeApplicationTestCase",
+          "uuid": "1f62cac2-3f7d-4e30-a975-276432271933",
+          "id": "1f62cac2-3f7d-4e30-a975-276432271933",
+          "cor": "#34a4c3",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Email",
+      "uuid": "6c607549-11fc-492a-9707-3953dc4f88a2",
+      "id": "6c607549-11fc-492a-9707-3953dc4f88a2",
+      "cor": "#c757f5",
+      "children": [
+        {
+          "name": "EmailIdMother",
+          "uuid": "bf8996ec-3594-479a-b83e-bed0ca5edf7f",
+          "id": "bf8996ec-3594-479a-b83e-bed0ca5edf7f",
+          "cor": "#c757f5",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "EmailId",
+          "uuid": "cac66a24-7959-4b8a-abbf-19dac9ae8892",
+          "id": "cac66a24-7959-4b8a-abbf-19dac9ae8892",
+          "cor": "#c757f5",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "Email",
+          "uuid": "ac7c1fe7-a12f-49d1-82bb-894892bde69f",
+          "id": "ac7c1fe7-a12f-49d1-82bb-894892bde69f",
+          "cor": "#c757f5",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "EmailMother",
+          "uuid": "3ed55694-0bad-4610-bc23-8b3175e0cbf6",
+          "id": "3ed55694-0bad-4610-bc23-8b3175e0cbf6",
+          "cor": "#c757f5",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Challenge",
+      "uuid": "7b709dbf-59e4-4ff0-8c11-72be1ec3e43d",
+      "id": "7b709dbf-59e4-4ff0-8c11-72be1ec3e43d",
+      "cor": "#e55a53",
+      "children": [
+        {
+          "name": "ChallengeStepStatementMother",
+          "uuid": "f974bd67-3933-4a2c-a695-92c7b6637cdc",
+          "id": "f974bd67-3933-4a2c-a695-92c7b6637cdc",
+          "cor": "#e55a53",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "ChallengeStepStatement",
+          "uuid": "67c4179a-0b42-4aee-891c-8b88772d01fa",
+          "id": "67c4179a-0b42-4aee-891c-8b88772d01fa",
+          "cor": "#e55a53",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "ChallengeStepMother",
+          "uuid": "4dca1923-8962-4cbf-96b0-f618b069dd05",
+          "id": "4dca1923-8962-4cbf-96b0-f618b069dd05",
+          "cor": "#e55a53",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "ChallengeStep",
+          "uuid": "ccec4fd0-f1e9-49a8-8fd9-aa8746f2801d",
+          "id": "ccec4fd0-f1e9-49a8-8fd9-aa8746f2801d",
+          "cor": "#e55a53",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Command",
+      "uuid": "9be3269b-e4ea-4a27-a207-b8e4b3eaa7d4",
+      "id": "9be3269b-e4ea-4a27-a207-b8e4b3eaa7d4",
+      "cor": "#edcd22",
+      "children": [
+        {
+          "name": "CommandNotRegisteredError",
+          "uuid": "0a472ee3-49cb-457d-ae1f-732a43ab20a2",
+          "id": "0a472ee3-49cb-457d-ae1f-732a43ab20a2",
+          "cor": "#edcd22",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CommandHandlerExecutionError",
+          "uuid": "f92a390a-c1fb-4f4c-80cc-542fae2bb26b",
+          "id": "f92a390a-c1fb-4f4c-80cc-542fae2bb26b",
+          "cor": "#edcd22",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "CommandHandlersInformation",
+          "uuid": "71faf589-8887-465b-91d9-dc1b7f25756e",
+          "id": "71faf589-8887-465b-91d9-dc1b7f25756e",
+          "cor": "#edcd22",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Mooc",
+      "uuid": "f4365a79-7ede-4855-a8b6-c3edbd19173b",
+      "id": "f4365a79-7ede-4855-a8b6-c3edbd19173b",
+      "cor": "#a689d6",
+      "children": [
+        {
+          "name": "MoocContextInfrastructureTestCase",
+          "uuid": "117f7a21-ccfa-46b3-9fb0-637c23b64683",
+          "id": "117f7a21-ccfa-46b3-9fb0-637c23b64683",
+          "cor": "#a689d6",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "MoocHibernateConfiguration",
+          "uuid": "1708ff49-765e-4a09-b5fc-8c9914dd351b",
+          "id": "1708ff49-765e-4a09-b5fc-8c9914dd351b",
+          "cor": "#a689d6",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "MoocRabbitMqEventBusConfiguration",
+          "uuid": "e2058146-82a3-4053-969b-0d5edbb74ba2",
+          "id": "e2058146-82a3-4053-969b-0d5edbb74ba2",
+          "cor": "#a689d6",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "MoocMySqlEventBusConfiguration",
+          "uuid": "a19b3fd0-c75f-4e98-8623-35818b5f9883",
+          "id": "a19b3fd0-c75f-4e98-8623-35818b5f9883",
+          "cor": "#a689d6",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "MoocBackendApplication",
+          "uuid": "e76e06b8-da17-402a-8f4f-da3692cfad30",
+          "id": "e76e06b8-da17-402a-8f4f-da3692cfad30",
+          "cor": "#a689d6",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "MoocApplicationTestCase",
+          "uuid": "570a908f-f4a0-4d21-bb24-f4f0d1e0c5ed",
+          "id": "570a908f-f4a0-4d21-bb24-f4f0d1e0c5ed",
+          "cor": "#a689d6",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "MoocBackendServerConfiguration",
+          "uuid": "51903164-bb04-4f54-ad20-db908778ec6c",
+          "id": "51903164-bb04-4f54-ad20-db908778ec6c",
+          "cor": "#a689d6",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "MoocBackendServerPortCustomizer",
+          "uuid": "ec1423a1-241c-4165-bc7c-ab493f1ccea7",
+          "id": "ec1423a1-241c-4165-bc7c-ab493f1ccea7",
+          "cor": "#a689d6",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "My",
+      "uuid": "8e4c56f6-27d4-4757-8d6f-0fea72029761",
+      "id": "8e4c56f6-27d4-4757-8d6f-0fea72029761",
+      "cor": "#80f770",
+      "children": [
+        {
+          "name": "MySqlCourseRepositoryShould",
+          "uuid": "6dedd15e-63df-4f6e-8311-b5afc06ca559",
+          "id": "6dedd15e-63df-4f6e-8311-b5afc06ca559",
+          "cor": "#80f770",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "MySqlBackofficeCourseRepository",
+          "uuid": "7522303e-8365-43ea-9200-19ace24a398a",
+          "id": "7522303e-8365-43ea-9200-19ace24a398a",
+          "cor": "#80f770",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "MySqlStepRepositoryShould",
+          "uuid": "5e93dc7c-e565-4d6f-b74e-6a8fb941a34f",
+          "id": "5e93dc7c-e565-4d6f-b74e-6a8fb941a34f",
+          "cor": "#80f770",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "MySqlCourseRepository",
+          "uuid": "12584ccf-18de-41b5-8101-5f762bb5c6cd",
+          "id": "12584ccf-18de-41b5-8101-5f762bb5c6cd",
+          "cor": "#80f770",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "MySqlStepRepository",
+          "uuid": "646cde63-1f74-4aa1-9caa-82796fbabf37",
+          "id": "646cde63-1f74-4aa1-9caa-82796fbabf37",
+          "cor": "#80f770",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "MySqlEventBus",
+          "uuid": "528c415e-1f60-4fbf-b32a-4977b8798157",
+          "id": "528c415e-1f60-4fbf-b32a-4977b8798157",
+          "cor": "#80f770",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "MySqlDomainEventsConsumer",
+          "uuid": "a2110e12-3021-4a4d-8db2-26827a0cacfb",
+          "id": "a2110e12-3021-4a4d-8db2-26827a0cacfb",
+          "cor": "#80f770",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "MySqlEventBusShould",
+          "uuid": "834d3814-089e-4a3f-9d5c-3a812764736d",
+          "id": "834d3814-089e-4a3f-9d5c-3a812764736d",
+          "cor": "#80f770",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "MySqlCoursesCounterRepositoryShould",
+          "uuid": "1cfd1f55-f6eb-45e5-b9e7-668d578152da",
+          "id": "1cfd1f55-f6eb-45e5-b9e7-668d578152da",
+          "cor": "#80f770",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "MySqlBackofficeCourseRepositoryShould",
+          "uuid": "108cc888-30fb-4f1b-a2a4-4a04a55badf8",
+          "id": "108cc888-30fb-4f1b-a2a4-4a04a55badf8",
+          "cor": "#80f770",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "MySqlCoursesCounterRepository",
+          "uuid": "e4a289bd-bdc8-4b8d-88b4-b2ea42b1fcd1",
+          "id": "e4a289bd-bdc8-4b8d-88b4-b2ea42b1fcd1",
+          "cor": "#80f770",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Json",
+      "uuid": "e3b5d565-bee3-4d74-b2e3-5aa649768387",
+      "id": "e3b5d565-bee3-4d74-b2e3-5aa649768387",
+      "cor": "#4f02ec",
+      "children": [
+        {
+          "name": "JsonListType",
+          "uuid": "cedf2895-8516-42f9-8f2f-b1ca22224a5a",
+          "id": "cedf2895-8516-42f9-8f2f-b1ca22224a5a",
+          "cor": "#4f02ec",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Infrastructure",
+      "uuid": "95dda5fe-bd52-465c-90c1-70d035a63804",
+      "id": "95dda5fe-bd52-465c-90c1-70d035a63804",
+      "cor": "#aff251",
+      "children": [
+        {
+          "name": "InfrastructureTestCase",
+          "uuid": "7da7ede0-a0d9-417a-a197-7c9420a1f881",
+          "id": "7da7ede0-a0d9-417a-a197-7c9420a1f881",
+          "cor": "#aff251",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Fake",
+      "uuid": "0f0bef65-5a5f-4aa9-967f-0a062bb709be",
+      "id": "0f0bef65-5a5f-4aa9-967f-0a062bb709be",
+      "cor": "#e38f33",
+      "children": [
+        {
+          "name": "FakeEmailSender",
+          "uuid": "52515017-206d-4d15-9d6b-6936bf339356",
+          "id": "52515017-206d-4d15-9d6b-6936bf339356",
+          "cor": "#e38f33",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Required",
+      "uuid": "75e178ae-afb0-4634-a35c-acc692c22b6d",
+      "id": "75e178ae-afb0-4634-a35c-acc692c22b6d",
+      "cor": "#8172e6",
+      "children": [
+        {
+          "name": "RequiredValidator",
+          "uuid": "13db657c-cf9d-4104-9ace-83836304782b",
+          "id": "13db657c-cf9d-4104-9ace-83836304782b",
+          "cor": "#8172e6",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Word",
+      "uuid": "63d6768a-a401-49ab-8564-096ff7422e63",
+      "id": "63d6768a-a401-49ab-8564-096ff7422e63",
+      "cor": "#3b5898",
+      "children": [
+        {
+          "name": "WordMother",
+          "uuid": "4f4fe126-fe56-4134-86cf-8b631bf4c7f7",
+          "id": "4f4fe126-fe56-4134-86cf-8b631bf4c7f7",
+          "cor": "#3b5898",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Api",
+      "uuid": "aea8fcc0-e407-4481-b88c-57d6cf73a0f1",
+      "id": "aea8fcc0-e407-4481-b88c-57d6cf73a0f1",
+      "cor": "#5efb0b",
+      "children": [
+        {
+          "name": "ApiExceptionMiddleware",
+          "uuid": "a49e3723-2512-4864-a26c-7ea862924c8b",
+          "id": "a49e3723-2512-4864-a26c-7ea862924c8b",
+          "cor": "#5efb0b",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "ApiController",
+          "uuid": "bb358c2e-5b58-4cec-a201-3a1b953c984b",
+          "id": "bb358c2e-5b58-4cec-a201-3a1b953c984b",
+          "cor": "#5efb0b",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Test",
+      "uuid": "abfa73e6-7d68-4e8c-a666-7fb260b91879",
+      "id": "abfa73e6-7d68-4e8c-a666-7fb260b91879",
+      "cor": "#9d6663",
+      "children": [
+        {
+          "name": "TestAllWorksOnRabbitMqEventsPublished",
+          "uuid": "bfb6f266-1bea-4354-acf9-16a90d3741be",
+          "id": "bfb6f266-1bea-4354-acf9-16a90d3741be",
+          "cor": "#9d6663",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Basic",
+      "uuid": "ce9cc3fa-83c2-42c1-89a1-572c3f84973f",
+      "id": "ce9cc3fa-83c2-42c1-89a1-572c3f84973f",
+      "cor": "#0df311",
+      "children": [
+        {
+          "name": "BasicHttpAuthMiddleware",
+          "uuid": "76a8caba-3424-4007-b3ba-4c84e1b4771d",
+          "id": "76a8caba-3424-4007-b3ba-4c84e1b4771d",
+          "cor": "#0df311",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    },
+    {
+      "name": "Invalid",
+      "uuid": "8dcc8b30-1d44-4f21-b6ba-5a9bb9e6dfd4",
+      "id": "8dcc8b30-1d44-4f21-b6ba-5a9bb9e6dfd4",
+      "cor": "#30d843",
+      "children": [
+        {
+          "name": "InvalidAuthCredentials",
+          "uuid": "0857e1c8-eb99-4577-91ed-e314e42cb42f",
+          "id": "0857e1c8-eb99-4577-91ed-e314e42cb42f",
+          "cor": "#30d843",
+          "children": null,
+          "value": 10
+        },
+        {
+          "name": "InvalidAuthUsername",
+          "uuid": "4a695312-e39c-4e1a-98cd-84b50194e7ca",
+          "id": "4a695312-e39c-4e1a-98cd-84b50194e7ca",
+          "cor": "#30d843",
+          "children": null,
+          "value": 10
+        }
+      ],
+      "value": 10
+    }
+  ],
+  "value": 10
+}

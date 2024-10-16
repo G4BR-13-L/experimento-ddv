@@ -1,0 +1,709 @@
+{
+  "name": "Root",
+  "uuid": "12345678",
+  "id": "12345678",
+  "cor": "#333333",
+  "children": [
+    {
+      "name": "src",
+      "uuid": "a9d4bf72-d368-43c7-b7d5-ad2962f86f58",
+      "id": "a9d4bf72-d368-43c7-b7d5-ad2962f86f58",
+      "cor": "#333333",
+      "children": [
+        {
+          "name": "com",
+          "uuid": "d97a5ac0-0f8e-4e07-b15b-b1a8db9dfe27",
+          "id": "d97a5ac0-0f8e-4e07-b15b-b1a8db9dfe27",
+          "cor": "#333333",
+          "children": [
+            {
+              "name": "winterbe",
+              "uuid": "f044bd9e-3c34-447d-8222-b05673be1bc9",
+              "id": "f044bd9e-3c34-447d-8222-b05673be1bc9",
+              "cor": "#333333",
+              "children": [
+                {
+                  "name": "java8",
+                  "uuid": "80bb4cac-af94-48d7-9495-69cc13f7d7ee",
+                  "id": "80bb4cac-af94-48d7-9495-69cc13f7d7ee",
+                  "cor": "#333333",
+                  "children": [
+                    {
+                      "name": "samples",
+                      "uuid": "ff055569-f860-462e-bf3a-ba1e5968765f",
+                      "id": "ff055569-f860-462e-bf3a-ba1e5968765f",
+                      "cor": "#333333",
+                      "children": [
+                        {
+                          "name": "misc",
+                          "uuid": "c2fd3ad0-cc15-4436-8aaa-bb13d6368a10",
+                          "id": "c2fd3ad0-cc15-4436-8aaa-bb13d6368a10",
+                          "cor": "#333333",
+                          "children": [
+                            {
+                              "name": "Annotations1",
+                              "uuid": "ede406b8-c78c-4861-8d4c-870ecbf12d8a",
+                              "id": "ede406b8-c78c-4861-8d4c-870ecbf12d8a",
+                              "cor": "#3d92a7",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Files1",
+                              "uuid": "e76f0e64-6055-4356-a9c5-9af7369fe889",
+                              "id": "e76f0e64-6055-4356-a9c5-9af7369fe889",
+                              "cor": "#919a9c",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Concurrency1",
+                              "uuid": "3f68a276-7512-4547-9464-fe24007a992e",
+                              "id": "3f68a276-7512-4547-9464-fe24007a992e",
+                              "cor": "#ec45a3",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "CheckedFunctions",
+                              "uuid": "0cbc96d2-089f-4bf2-9d10-7d7ea452a92e",
+                              "id": "0cbc96d2-089f-4bf2-9d10-7d7ea452a92e",
+                              "cor": "#a79bcb",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Math1",
+                              "uuid": "ace6618a-75ed-4231-92d9-4cc659c2a9b4",
+                              "id": "ace6618a-75ed-4231-92d9-4cc659c2a9b4",
+                              "cor": "#378ef0",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "String1",
+                              "uuid": "f52f6113-eaaf-4b57-897e-8ecc871bc576",
+                              "id": "f52f6113-eaaf-4b57-897e-8ecc871bc576",
+                              "cor": "#f137ce",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Maps1",
+                              "uuid": "00742b06-9838-480f-a133-03967283272e",
+                              "id": "00742b06-9838-480f-a133-03967283272e",
+                              "cor": "#e95fed",
+                              "children": null,
+                              "value": 10
+                            }
+                          ],
+                          "value": 10
+                        },
+                        {
+                          "name": "stream",
+                          "uuid": "8325666b-e4e0-4353-aac9-3dc330a94199",
+                          "id": "8325666b-e4e0-4353-aac9-3dc330a94199",
+                          "cor": "#333333",
+                          "children": [
+                            {
+                              "name": "Optional1",
+                              "uuid": "163bfda8-14ed-4ba5-a06d-73a46a5add34",
+                              "id": "163bfda8-14ed-4ba5-a06d-73a46a5add34",
+                              "cor": "#ced7f0",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Inner",
+                              "uuid": "652dc613-23e9-4f0f-878d-7666cde837e6",
+                              "id": "652dc613-23e9-4f0f-878d-7666cde837e6",
+                              "cor": "#ce21af",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Streams13",
+                              "uuid": "16c20c31-36a4-4990-ad01-aebf6a94df2e",
+                              "id": "16c20c31-36a4-4990-ad01-aebf6a94df2e",
+                              "cor": "#d8b42d",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Nested",
+                              "uuid": "0337d430-a8bc-4a21-a41d-766831e45646",
+                              "id": "0337d430-a8bc-4a21-a41d-766831e45646",
+                              "cor": "#d6aff2",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Outer",
+                              "uuid": "f03edc16-3853-44cd-a2cf-8d811ceebae9",
+                              "id": "f03edc16-3853-44cd-a2cf-8d811ceebae9",
+                              "cor": "#d7194a",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Optional2",
+                              "uuid": "5ce834df-24f3-48c9-9bd7-0c22cb06926c",
+                              "id": "5ce834df-24f3-48c9-9bd7-0c22cb06926c",
+                              "cor": "#ced7f0",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Streams4",
+                              "uuid": "190f5247-e6c0-4301-a97b-1250cc645d2a",
+                              "id": "190f5247-e6c0-4301-a97b-1250cc645d2a",
+                              "cor": "#d8b42d",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Streams9",
+                              "uuid": "272872f1-5849-42bd-afbf-13d309b5d591",
+                              "id": "272872f1-5849-42bd-afbf-13d309b5d591",
+                              "cor": "#d8b42d",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Streams2",
+                              "uuid": "2184444b-d448-4fa2-b8b9-aec3a6eebb7e",
+                              "id": "2184444b-d448-4fa2-b8b9-aec3a6eebb7e",
+                              "cor": "#d8b42d",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Streams5",
+                              "uuid": "129a5a14-bee7-4302-993b-6b5138039364",
+                              "id": "129a5a14-bee7-4302-993b-6b5138039364",
+                              "cor": "#d8b42d",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Streams1",
+                              "uuid": "8bbb46fa-94ac-4940-a7e9-28777d452900",
+                              "id": "8bbb46fa-94ac-4940-a7e9-28777d452900",
+                              "cor": "#d8b42d",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Streams12",
+                              "uuid": "5a5e2412-8fd4-4fb0-9c3e-10d9ed2e31ec",
+                              "id": "5a5e2412-8fd4-4fb0-9c3e-10d9ed2e31ec",
+                              "cor": "#d8b42d",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Streams8",
+                              "uuid": "d8becb94-8a67-4015-8942-454d1c7070b1",
+                              "id": "d8becb94-8a67-4015-8942-454d1c7070b1",
+                              "cor": "#d8b42d",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Streams6",
+                              "uuid": "b1d7b00c-faad-45aa-a9d8-60cb8baee47c",
+                              "id": "b1d7b00c-faad-45aa-a9d8-60cb8baee47c",
+                              "cor": "#d8b42d",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Streams10",
+                              "uuid": "65bb04d4-0fcc-4c88-82ea-33f9d9929cd6",
+                              "id": "65bb04d4-0fcc-4c88-82ea-33f9d9929cd6",
+                              "cor": "#d8b42d",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Person",
+                              "uuid": "b7cd73eb-847d-420e-a479-e7de2de75881",
+                              "id": "b7cd73eb-847d-420e-a479-e7de2de75881",
+                              "cor": "#11e1f6",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Streams11",
+                              "uuid": "53d385b5-a85c-4462-b0d3-6ce1fff2e5ac",
+                              "id": "53d385b5-a85c-4462-b0d3-6ce1fff2e5ac",
+                              "cor": "#d8b42d",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Streams3",
+                              "uuid": "9fa21ba6-1479-4691-938b-e0398676b68f",
+                              "id": "9fa21ba6-1479-4691-938b-e0398676b68f",
+                              "cor": "#d8b42d",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Bar",
+                              "uuid": "18efc536-ca59-4abd-a39f-83d037eb938f",
+                              "id": "18efc536-ca59-4abd-a39f-83d037eb938f",
+                              "cor": "#485ac9",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Foo",
+                              "uuid": "94b5bbf6-3ea0-4ac3-82a0-877b2e91b34b",
+                              "id": "94b5bbf6-3ea0-4ac3-82a0-877b2e91b34b",
+                              "cor": "#bfecd6",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Streams7",
+                              "uuid": "de41954d-16c3-4e69-94f8-31c86ced858a",
+                              "id": "de41954d-16c3-4e69-94f8-31c86ced858a",
+                              "cor": "#d8b42d",
+                              "children": null,
+                              "value": 10
+                            }
+                          ],
+                          "value": 10
+                        },
+                        {
+                          "name": "nashorn",
+                          "uuid": "2b86de76-66da-43eb-8a12-cccc17f6df81",
+                          "id": "2b86de76-66da-43eb-8a12-cccc17f6df81",
+                          "cor": "#333333",
+                          "children": [
+                            {
+                              "name": "Nashorn7",
+                              "uuid": "48f7a5a2-55b1-4c84-97b5-16494980b229",
+                              "id": "48f7a5a2-55b1-4c84-97b5-16494980b229",
+                              "cor": "#c5a260",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Nashorn2",
+                              "uuid": "63f81d27-50fe-4bd8-aa32-6b13f0fc8da8",
+                              "id": "63f81d27-50fe-4bd8-aa32-6b13f0fc8da8",
+                              "cor": "#c5a260",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Nashorn10",
+                              "uuid": "1030896a-2189-4454-a3ee-809866ba7961",
+                              "id": "1030896a-2189-4454-a3ee-809866ba7961",
+                              "cor": "#c5a260",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Nashorn4",
+                              "uuid": "0fa586fb-f0ee-4dfa-b8ce-50b096a6d92b",
+                              "id": "0fa586fb-f0ee-4dfa-b8ce-50b096a6d92b",
+                              "cor": "#c5a260",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "SuperRunner",
+                              "uuid": "ece7b33d-ce2d-4670-9f19-1787fd9744ae",
+                              "id": "ece7b33d-ce2d-4670-9f19-1787fd9744ae",
+                              "cor": "#fd4ba5",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Nashorn3",
+                              "uuid": "8c54bd10-b97f-47a7-825f-bc0eae2d7a2f",
+                              "id": "8c54bd10-b97f-47a7-825f-bc0eae2d7a2f",
+                              "cor": "#c5a260",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Nashorn11",
+                              "uuid": "7f1ee5b5-5c2a-4e5c-b951-c0b2109680f6",
+                              "id": "7f1ee5b5-5c2a-4e5c-b951-c0b2109680f6",
+                              "cor": "#c5a260",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Nashorn1",
+                              "uuid": "7d8c5f3e-ff86-492f-b48d-85bc0b24a49a",
+                              "id": "7d8c5f3e-ff86-492f-b48d-85bc0b24a49a",
+                              "cor": "#c5a260",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Nashorn9",
+                              "uuid": "9348f790-0b9f-495d-904f-5ba2066b1a40",
+                              "id": "9348f790-0b9f-495d-904f-5ba2066b1a40",
+                              "cor": "#c5a260",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Nashorn8",
+                              "uuid": "704dfa88-feca-4f95-bbcc-90ad825f048e",
+                              "id": "704dfa88-feca-4f95-bbcc-90ad825f048e",
+                              "cor": "#c5a260",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Nashorn5",
+                              "uuid": "d2b79f58-fe32-41ac-9da6-64e3749f6473",
+                              "id": "d2b79f58-fe32-41ac-9da6-64e3749f6473",
+                              "cor": "#c5a260",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Product",
+                              "uuid": "d33c6c35-53ec-4499-9b2f-0745ff4197d3",
+                              "id": "d33c6c35-53ec-4499-9b2f-0745ff4197d3",
+                              "cor": "#20d861",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Nashorn6",
+                              "uuid": "cb1a865b-e898-481f-a38a-763ae9226b68",
+                              "id": "cb1a865b-e898-481f-a38a-763ae9226b68",
+                              "cor": "#c5a260",
+                              "children": null,
+                              "value": 10
+                            }
+                          ],
+                          "value": 10
+                        },
+                        {
+                          "name": "time",
+                          "uuid": "40ad7493-0c12-4902-b915-b67f14518e1f",
+                          "id": "40ad7493-0c12-4902-b915-b67f14518e1f",
+                          "cor": "#333333",
+                          "children": [
+                            {
+                              "name": "LocalTime1",
+                              "uuid": "5ac3f7cb-1dde-4ed5-9e3e-b784b0ef9d00",
+                              "id": "5ac3f7cb-1dde-4ed5-9e3e-b784b0ef9d00",
+                              "cor": "#88adb0",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "LocalDateTime1",
+                              "uuid": "acf86d8f-5a77-49a2-8dc2-0643f18ecc50",
+                              "id": "acf86d8f-5a77-49a2-8dc2-0643f18ecc50",
+                              "cor": "#88adb0",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "LocalDate1",
+                              "uuid": "d0f40e8c-abfe-4e91-a77d-79cbed012973",
+                              "id": "d0f40e8c-abfe-4e91-a77d-79cbed012973",
+                              "cor": "#88adb0",
+                              "children": null,
+                              "value": 10
+                            }
+                          ],
+                          "value": 10
+                        },
+                        {
+                          "name": "concurrent",
+                          "uuid": "609c34d5-2b9d-48a6-833f-d34eab849b53",
+                          "id": "609c34d5-2b9d-48a6-833f-d34eab849b53",
+                          "cor": "#333333",
+                          "children": [
+                            {
+                              "name": "ConcurrentHashMap1",
+                              "uuid": "d5fc516b-a97d-413b-a9ea-7212b007ed7c",
+                              "id": "d5fc516b-a97d-413b-a9ea-7212b007ed7c",
+                              "cor": "#65c098",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Atomic1",
+                              "uuid": "c8c25306-b5f2-4f38-8665-bb097817bf64",
+                              "id": "c8c25306-b5f2-4f38-8665-bb097817bf64",
+                              "cor": "#cf29d6",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Threads1",
+                              "uuid": "d49f0cc4-00cb-4dac-b6d7-036bef6cfe5f",
+                              "id": "d49f0cc4-00cb-4dac-b6d7-036bef6cfe5f",
+                              "cor": "#08cd7b",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "CompletableFuture1",
+                              "uuid": "1852a641-5811-4320-88f6-e4fa0476a5ab",
+                              "id": "1852a641-5811-4320-88f6-e4fa0476a5ab",
+                              "cor": "#4b3361",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Semaphore1",
+                              "uuid": "6822817a-e8b7-42ba-88b3-30bed0293053",
+                              "id": "6822817a-e8b7-42ba-88b3-30bed0293053",
+                              "cor": "#995ecd",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Executors3",
+                              "uuid": "ed9b72a3-26d4-4d85-852b-620e28cfc62f",
+                              "id": "ed9b72a3-26d4-4d85-852b-620e28cfc62f",
+                              "cor": "#c49848",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Executors2",
+                              "uuid": "e57320d9-5691-43b4-97c8-fd0ed90acfae",
+                              "id": "e57320d9-5691-43b4-97c8-fd0ed90acfae",
+                              "cor": "#c49848",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Lock2",
+                              "uuid": "50aa951b-81bc-4d1e-891e-99760d8d04cf",
+                              "id": "50aa951b-81bc-4d1e-891e-99760d8d04cf",
+                              "cor": "#5aa176",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "LongAdder1",
+                              "uuid": "e05f5cff-69c8-435d-ab20-9e1658c915b1",
+                              "id": "e05f5cff-69c8-435d-ab20-9e1658c915b1",
+                              "cor": "#03f3e3",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Semaphore2",
+                              "uuid": "95e16f93-1f4e-4757-99e5-e4b32c1ccebc",
+                              "id": "95e16f93-1f4e-4757-99e5-e4b32c1ccebc",
+                              "cor": "#995ecd",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "LongAccumulator1",
+                              "uuid": "4953dda2-fd81-45bd-90cd-06d495670390",
+                              "id": "4953dda2-fd81-45bd-90cd-06d495670390",
+                              "cor": "#03f3e3",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Lock5",
+                              "uuid": "e67c4a73-9c30-4e62-8ba1-af0715630565",
+                              "id": "e67c4a73-9c30-4e62-8ba1-af0715630565",
+                              "cor": "#5aa176",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Synchronized2",
+                              "uuid": "9f0b1827-9e29-4c98-81a9-5caeaee77995",
+                              "id": "9f0b1827-9e29-4c98-81a9-5caeaee77995",
+                              "cor": "#9027ae",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Lock1",
+                              "uuid": "c98396e4-5f3b-4889-a532-fed0095710a6",
+                              "id": "c98396e4-5f3b-4889-a532-fed0095710a6",
+                              "cor": "#5aa176",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Lock3",
+                              "uuid": "6fa3b896-0923-4958-a00a-175aa8cbe7ff",
+                              "id": "6fa3b896-0923-4958-a00a-175aa8cbe7ff",
+                              "cor": "#5aa176",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Lock4",
+                              "uuid": "a776b1ed-ec83-45ea-a964-b0cbedf8c3ed",
+                              "id": "a776b1ed-ec83-45ea-a964-b0cbedf8c3ed",
+                              "cor": "#5aa176",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Lock6",
+                              "uuid": "5405d68f-bf8f-45ce-a8f8-e4bdd80f5098",
+                              "id": "5405d68f-bf8f-45ce-a8f8-e4bdd80f5098",
+                              "cor": "#5aa176",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "ConcurrentUtils",
+                              "uuid": "cdb45d3f-f517-4a97-9ebd-df7fb6d031e5",
+                              "id": "cdb45d3f-f517-4a97-9ebd-df7fb6d031e5",
+                              "cor": "#65c098",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Executors1",
+                              "uuid": "35234546-2623-40c8-b765-283d16b9a874",
+                              "id": "35234546-2623-40c8-b765-283d16b9a874",
+                              "cor": "#c49848",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Synchronized1",
+                              "uuid": "60f5915d-887a-4625-bcc1-89b29b4e4180",
+                              "id": "60f5915d-887a-4625-bcc1-89b29b4e4180",
+                              "cor": "#9027ae",
+                              "children": null,
+                              "value": 10
+                            }
+                          ],
+                          "value": 10
+                        },
+                        {
+                          "name": "lambda",
+                          "uuid": "eb62e67a-f716-4f0e-a93c-9837d0e8bd4c",
+                          "id": "eb62e67a-f716-4f0e-a93c-9837d0e8bd4c",
+                          "cor": "#333333",
+                          "children": [
+                            {
+                              "name": "Lambda1",
+                              "uuid": "2ffb84f5-6810-47cb-9d3c-b82f34858cf0",
+                              "id": "2ffb84f5-6810-47cb-9d3c-b82f34858cf0",
+                              "cor": "#e2cf6a",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Something",
+                              "uuid": "771473c8-4f9c-4de9-b790-31bd11bcfe3c",
+                              "id": "771473c8-4f9c-4de9-b790-31bd11bcfe3c",
+                              "cor": "#04a5b1",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Lambda2",
+                              "uuid": "32b29a42-a74e-48d6-871f-f946be638951",
+                              "id": "32b29a42-a74e-48d6-871f-f946be638951",
+                              "cor": "#e2cf6a",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Interface1",
+                              "uuid": "b7e750c4-b68a-4a97-af42-3c55fed3f74f",
+                              "id": "b7e750c4-b68a-4a97-af42-3c55fed3f74f",
+                              "cor": "#333333",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Lambda4",
+                              "uuid": "6bf673ce-cf74-4930-8c93-e9020913daae",
+                              "id": "6bf673ce-cf74-4930-8c93-e9020913daae",
+                              "cor": "#e2cf6a",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Lambda3",
+                              "uuid": "68a1e485-a066-481e-9087-a48ab1fc2b38",
+                              "id": "68a1e485-a066-481e-9087-a48ab1fc2b38",
+                              "cor": "#e2cf6a",
+                              "children": null,
+                              "value": 10
+                            },
+                            {
+                              "name": "Lambda5",
+                              "uuid": "a08e0008-d108-4d1e-85b1-05cf6e3b5183",
+                              "id": "a08e0008-d108-4d1e-85b1-05cf6e3b5183",
+                              "cor": "#e2cf6a",
+                              "children": null,
+                              "value": 10
+                            }
+                          ],
+                          "value": 10
+                        }
+                      ],
+                      "value": 10
+                    }
+                  ],
+                  "value": 10
+                },
+                {
+                  "name": "java11",
+                  "uuid": "ce51f8b7-a973-4b41-8f59-6699fdae0092",
+                  "id": "ce51f8b7-a973-4b41-8f59-6699fdae0092",
+                  "cor": "#333333",
+                  "children": [
+                    {
+                      "name": "Misc",
+                      "uuid": "4395c581-ef20-469e-a911-148aaaf4af88",
+                      "id": "4395c581-ef20-469e-a911-148aaaf4af88",
+                      "cor": "#376746",
+                      "children": null,
+                      "value": 10
+                    },
+                    {
+                      "name": "LocalVariableSyntax",
+                      "uuid": "5a7cb0e9-ae9e-4feb-85e9-e9002107a746",
+                      "id": "5a7cb0e9-ae9e-4feb-85e9-e9002107a746",
+                      "cor": "#88adb0",
+                      "children": null,
+                      "value": 10
+                    },
+                    {
+                      "name": "HttpClientExamples",
+                      "uuid": "70a7e940-864a-49b7-a44d-b0b4d9a4ee90",
+                      "id": "70a7e940-864a-49b7-a44d-b0b4d9a4ee90",
+                      "cor": "#9f460c",
+                      "children": null,
+                      "value": 10
+                    }
+                  ],
+                  "value": 10
+                }
+              ],
+              "value": 10
+            }
+          ],
+          "value": 10
+        }
+      ],
+      "value": 10
+    }
+  ],
+  "value": 10
+}

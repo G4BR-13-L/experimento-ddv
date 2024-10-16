@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
+    <!-- <link rel="stylesheet" href="/ddv-report/web/css/index.css"> -->
+    <link rel="stylesheet" href="./web/css/index.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+        integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>DDV</title>
+    <style>
+        body {
+            width: 100vw;
+            height: 100vh;
+        }
+    </style>
+</head>
+
+<body>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="web/js/d3js/d3_index.js"></script>
+    <script src="web/js/d3js/d3_circle_packing_diretorios.js"></script>
+    <script src="web/js/index.js"></script>
+    <script src="web/js/painel.js"></script>
+    <div class="painel">
+        <div class="painel-header">
+            <span class="macaneta"><i class="fa-solid fa-grip"></i></span>
+            <h3>Painel</h3>
+        </div>
+        <div class="container">
+            <button class="button" onclick="trocarGrafico(JsonData.GRAFO_COMPLETO);activate(this, 'button'); return 0;">
+                <div class="icon"><i class="fa-solid fa-diagram-project"></i></div>
+                <div class="label">Grafo</div>
+            </button>
+            <button class="button" onclick="trocarGrafico(JsonData.GRAFO_DOMINIO); activate(this, 'button'); return 0;">
+                <div class="icon"><i class="fa-solid fa-diagram-project"></i></div>
+                <div class="label">Grafo de dominio</div>
+            </button>
+            <button class="button"
+                onclick="trocarGrafico(JsonData.GRAFO_CLASSES_DOMINIO); activate(this, 'button'); return 0;">
+                <div class="icon"><i class="fa-solid fa-diagram-project"></i></div>
+                <div class="label">Grafo de classes e dominios</div>
+            </button>
+            <button class="button"
+                onclick="trocarGrafico(JsonData.GRAFO_CLASSES_DOMINIO_DEPENDENCIAS); activate(this, 'button'); return 0;">
+                <div class="icon"><i class="fa-solid fa-diagram-project"></i></div>
+                <div class="label">Grafo de classes, dominios e dependencias</div>
+            </button>
+            <button class="button"
+                onclick="trocarGrafico(JsonData.CIRCLE_PACKING_DOMINIO); activate(this, 'button'); return 0;">
+                <div class="icon"><i class="fa-solid fa-bowling-ball"></i></i></div>
+                <div class="label">Circle packing dominio</div>
+            </button>
+            <button class="button"
+                onclick="trocarGrafico(JsonData.CIRCLE_PACKING_DIRETORIO); activate(this, 'button'); return 0;">
+                <div class="icon"><i class="fa-solid fa-bowling-ball"></i></i></div>
+                <div class="label">Circle packing diretorio</div>
+            </button>
+        </div>
+    </div>
+    <div class="d3-canvas"></div>
+    <script>
+        function activate(element, mainClass) {
+            document.querySelectorAll('.button').forEach(e => {
+                e.classList.remove('ativo');
+            });
+            if (element.classList.contains('ativo')) {
+                element.classList.remove('ativo')
+            } else {
+                element.classList.add('ativo');
+            }
+        }
+    </script>
+    <script>(function () {
+            let SSWZ = function () {
+                this.keyScrollHandler = function (e) {
+                    if (e.ctrlKey) {
+                        e.preventDefault();
+                        return false;
+                    }
+                }
+            };
+
+            if (window === top) {
+                let sswz = new SSWZ();
+                window.addEventListener('wheel', sswz.keyScrollHandler, { passive: false });
+            }
+        })();
+    </script>
+
+</body>
+
+
+</html>

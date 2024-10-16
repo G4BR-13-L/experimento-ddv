@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        display: grid;
+        place-items: center;
+    }
+
+    .center {
+        width: 100%;
+        display: grid;
+        place-items: center;
+    }
+
+    .container {
+        width: 70%;
+        height: 300px;
+        display: grid;
+        place-items: center;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-column-gap: 10px;
+    }
+
+    .container a {
+        background-color: blue;
+        height: 100%;
+        width: 100%;
+        border-radius: 10px;
+        display: grid;
+        place-items: center;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bolder;
+        text-decoration: none;
+        color: black;
+        text-align: center;
+        padding: 8px;
+    }
+
+    .container a:hover,
+    #color-01:hover,
+    #color-02:hover,
+    #color-03:hover {
+        filter: brightness(1.2);
+        border: 1px solid black;
+    }
+
+    .container a .number {
+        font-size: 50px;
+    }
+
+    .container a .text {
+        font-size: 20px;
+    }
+
+    #color-01 {
+        background-color: #FFC312;
+    }
+
+    #color-02 {
+        background-color: #EE5A24;
+    }
+
+    #color-03 {
+        background-color: #009432;
+    }
+    section {
+        width: 80%;
+        margin: 150px auto;
+    }
+    section h1, section  h2, section h3 {
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+
+    section p {
+        margin-bottom: 10px;
+        text-align: justify;
+        line-height: 30px;
+    }
+    .main-title {
+        font-size: 50px;
+        text-align: center;
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+
+</style>
+
+<body>
+    <h1 class="main-title">Experimento DDV</h1>
+    <div class="center">
+        <div class="container">
+            <a href="/01/index.html" id="color-01">
+                <span class="number">01</span>
+                <div class="text">java-ddd-example</div>
+            </a>
+
+            <a href="/02/index.html" id="color-02">
+                <span class="number">02</span>
+                <div class="text">NewPipeExtractor</div>
+            </a>
+
+            <a href="/03/index.html" id="color-03">
+                <span class="number">02</span>
+                <div class="text">java8-tutorial</div>
+            </a>
+        </div>
+    </div>
+
+    <section>
+    <p>Agradeço imensamente pela sua participação neste experimento, que é parte fundamental do meu Trabalho de
+        Conclusão de Curso (TCC) em Engenharia de Software na Pontifícia Universidade Católica de Minas Gerais (PUC
+        Minas). Eu sou Gabriel Victor, e este trabalho foi orientado pela Professora Lucila Ishitani. Caso tenha
+        qualquer dúvida ou sugestão sobre o experimento ou sobre a ferramenta utilizada, estou à disposição pelo email:
+        gabriel.paula.1265840@sga.pucminas.br. Sua contribuição é essencial para que este trabalho agregue valor para as
+        pessoas que desenvolvolvem software.</p>
+    <h2 id="contexto">Contexto</h2>
+    <p>Este experimento faz parte de uma pesquisa que investiga o impacto da visualização de código baseada em
+        <strong>Domain-Driven Design (DDD)</strong> na compreensão da estrutura de software e na gestão de conhecimento
+        em equipes de desenvolvimento ágil. O objetivo principal é avaliar como a visualização de código pode auxiliar
+        na organização e compreensão de projetos Java, facilitando a identificação de domínios de negócio e o
+        gerenciamento de conhecimento.</p>
+    <p>Durante o experimento, será utilizada a ferramenta <strong>Domain-Driven Viewer (DDV)</strong>, que processa o
+        código-fonte de repositórios Java para gerar visualizações da estrutura do software, agrupando classes em
+        domínios de negócio. Essas visualizações são baseadas nos princípios do DDD, ajudando a analisar a organização
+        do código e a sua aderência a essas práticas.</p>
+    <h3 id="objetivo-do-experimento">Objetivo do Experimento</h3>
+    <p>O experimento envolve a execução da ferramenta <strong>DDV</strong> em três projetos Java organizados de formas
+        diferentes em relação ao DDD:</p>
+    <ol>
+        <li><strong>java-ddd-example</strong>: Projeto completamente organizado segundo o DDD.</li>
+        <li><strong>NewPipeExtractor</strong>: Código de um famoso backend open-source sem compromisso com o DDD.</li>
+        <li><strong>java8-tutorial</strong>: Projeto sem alinhamento ao DDD.</li>
+    </ol>
+    <p>Os participantes devem executar a ferramenta <strong>DDV</strong> em cada um dos repositórios e avaliar a
+        visualização gerada. Ao final, será solicitado que respondam um questionário sobre a experiência de uso da
+        ferramenta.</p>
+    <h2 id="estrutura-dos-reposit-rios">Estrutura dos Repositórios</h2>
+    <p>O zip &quot;Experimento-DDV&quot; contém três repositórios:</p>
+    <pre><code>├── <span class="hljs-number">01.</span> java-ddd-example
+├── <span class="hljs-number">02.</span> NewPipeExtractor
+├── <span class="hljs-number">03.</span> java8-tutorial
+└── INSTRUÇÕES.md
+</code></pre>
+    <p>Cada um dos repositórios contém o binário da ferramenta <strong>DDV</strong> (<code>ddv.exe</code> para Windows e
+        <code>ddv</code> para Linux), que será utilizado no experimento.</p>
+    <h2 id="instru-es-de-execu-o">Instruções de Execução</h2>
+    <h3 id="pr-requisitos">Pré-requisitos</h3>
+    <ul>
+        <li><strong>Windows</strong>: Talvez seja necessário executar o programa com permissões de administrador e
+            desativar temporariamente o Windows Defender ou o antivírus, pois ele pode bloquear a execução do binário.
+        </li>
+        <li>
+            <p><strong>Linux</strong>: O binário pode necessitar de permissões de execução. Execute o seguinte comando
+                no terminal antes de rodar a ferramenta:</p>
+            <pre><code class="lang-bash"><span class="hljs-keyword">chmod</span> +<span class="hljs-keyword">x</span> ddv
+</code></pre>
+        </li>
+    </ul>
+    <h3 id="passo-a-passo">Passo a Passo</h3>
+    <ol>
+        <li>Navegue até o diretório do repositório correspondente.</li>
+        <li>Execute o <strong>DDV</strong>:<ul>
+                <li><strong>Windows</strong>: <code>ddv.exe</code></li>
+                <li><strong>Linux</strong>: <code>./ddv</code></li>
+            </ul>
+        </li>
+        <li>Após a execução, abra seu navegador e acesse a página <a
+                href="http://localhost:9900">http://localhost:9900</a> para visualizar as estruturas de código e os
+            domínios identificados.</li>
+        <li>Repita o processo para os três repositórios: <code>01. java-ddd-example</code>,
+            <code>02. NewPipeExtractor</code>, <code>03. java8-tutorial</code>.</li>
+    </ol>
+    <h2 id="import-ncia-do-formul-rio">Importância do Formulário</h2>
+    <p>Após testar a ferramenta em cada repositório, pedimos que responda o formulário disponível no link: <a
+            href="https://forms.gle/jxg7zveR6nXUEuTd9">https://forms.gle/jxg7zveR6nXUEuTd9</a>. Este formulário é
+        <strong>anônimo</strong> e não coleta dados pessoais. As respostas devem ser sinceras e objetivas, com um texto
+        ideal de cerca de um parágrafo.</p>
+    <p>Suas respostas são extremamente importantes para que possamos avaliar a eficácia da ferramenta
+        <strong>DDV</strong> e a relevância que ela pode ter para Engeharia de Software.</p>
+    </section>
+
+</body>
+
+</html>

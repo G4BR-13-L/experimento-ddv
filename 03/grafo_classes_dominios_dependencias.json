@@ -1,0 +1,1434 @@
+{
+  "nodes": [
+    {
+      "uuid": "ece7b33d-ce2d-4670-9f19-1787fd9744ae",
+      "id": "ece7b33d-ce2d-4670-9f19-1787fd9744ae",
+      "nome": "SuperRunner",
+      "cor": "#fd4ba5",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "70a7e940-864a-49b7-a44d-b0b4d9a4ee90",
+      "id": "70a7e940-864a-49b7-a44d-b0b4d9a4ee90",
+      "nome": "HttpClientExamples",
+      "cor": "#9f460c",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "4395c581-ef20-469e-a911-148aaaf4af88",
+      "id": "4395c581-ef20-469e-a911-148aaaf4af88",
+      "nome": "Misc",
+      "cor": "#376746",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "5a7cb0e9-ae9e-4feb-85e9-e9002107a746",
+      "id": "5a7cb0e9-ae9e-4feb-85e9-e9002107a746",
+      "nome": "LocalVariableSyntax",
+      "cor": "#88adb0",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "d33c6c35-53ec-4499-9b2f-0745ff4197d3",
+      "id": "d33c6c35-53ec-4499-9b2f-0745ff4197d3",
+      "nome": "Product",
+      "cor": "#20d861",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "cb1a865b-e898-481f-a38a-763ae9226b68",
+      "id": "cb1a865b-e898-481f-a38a-763ae9226b68",
+      "nome": "Nashorn6",
+      "cor": "#c5a260",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "94b5bbf6-3ea0-4ac3-82a0-877b2e91b34b",
+      "id": "94b5bbf6-3ea0-4ac3-82a0-877b2e91b34b",
+      "nome": "Foo",
+      "cor": "#bfecd6",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "18efc536-ca59-4abd-a39f-83d037eb938f",
+      "id": "18efc536-ca59-4abd-a39f-83d037eb938f",
+      "nome": "Bar",
+      "cor": "#485ac9",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "d2b79f58-fe32-41ac-9da6-64e3749f6473",
+      "id": "d2b79f58-fe32-41ac-9da6-64e3749f6473",
+      "nome": "Nashorn5",
+      "cor": "#c5a260",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "b7cd73eb-847d-420e-a479-e7de2de75881",
+      "id": "b7cd73eb-847d-420e-a479-e7de2de75881",
+      "nome": "Person",
+      "cor": "#11e1f6",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "7d8c5f3e-ff86-492f-b48d-85bc0b24a49a",
+      "id": "7d8c5f3e-ff86-492f-b48d-85bc0b24a49a",
+      "nome": "Nashorn1",
+      "cor": "#c5a260",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "68a1e485-a066-481e-9087-a48ab1fc2b38",
+      "id": "68a1e485-a066-481e-9087-a48ab1fc2b38",
+      "nome": "Lambda3",
+      "cor": "#e2cf6a",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "32b29a42-a74e-48d6-871f-f946be638951",
+      "id": "32b29a42-a74e-48d6-871f-f946be638951",
+      "nome": "Lambda2",
+      "cor": "#e2cf6a",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "771473c8-4f9c-4de9-b790-31bd11bcfe3c",
+      "id": "771473c8-4f9c-4de9-b790-31bd11bcfe3c",
+      "nome": "Something",
+      "cor": "#04a5b1",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "48f7a5a2-55b1-4c84-97b5-16494980b229",
+      "id": "48f7a5a2-55b1-4c84-97b5-16494980b229",
+      "nome": "Nashorn7",
+      "cor": "#c5a260",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "cdb45d3f-f517-4a97-9ebd-df7fb6d031e5",
+      "id": "cdb45d3f-f517-4a97-9ebd-df7fb6d031e5",
+      "nome": "ConcurrentUtils",
+      "cor": "#65c098",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "ede406b8-c78c-4861-8d4c-870ecbf12d8a",
+      "id": "ede406b8-c78c-4861-8d4c-870ecbf12d8a",
+      "nome": "Annotations1",
+      "cor": "#3d92a7",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "0cbc96d2-089f-4bf2-9d10-7d7ea452a92e",
+      "id": "0cbc96d2-089f-4bf2-9d10-7d7ea452a92e",
+      "nome": "CheckedFunctions",
+      "cor": "#a79bcb",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "de41954d-16c3-4e69-94f8-31c86ced858a",
+      "id": "de41954d-16c3-4e69-94f8-31c86ced858a",
+      "nome": "Streams7",
+      "cor": "#d8b42d",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "65bb04d4-0fcc-4c88-82ea-33f9d9929cd6",
+      "id": "65bb04d4-0fcc-4c88-82ea-33f9d9929cd6",
+      "nome": "Streams10",
+      "cor": "#d8b42d",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "53d385b5-a85c-4462-b0d3-6ce1fff2e5ac",
+      "id": "53d385b5-a85c-4462-b0d3-6ce1fff2e5ac",
+      "nome": "Streams11",
+      "cor": "#d8b42d",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "5ce834df-24f3-48c9-9bd7-0c22cb06926c",
+      "id": "5ce834df-24f3-48c9-9bd7-0c22cb06926c",
+      "nome": "Optional2",
+      "cor": "#ced7f0",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "f03edc16-3853-44cd-a2cf-8d811ceebae9",
+      "id": "f03edc16-3853-44cd-a2cf-8d811ceebae9",
+      "nome": "Outer",
+      "cor": "#d7194a",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "0337d430-a8bc-4a21-a41d-766831e45646",
+      "id": "0337d430-a8bc-4a21-a41d-766831e45646",
+      "nome": "Nested",
+      "cor": "#d6aff2",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "652dc613-23e9-4f0f-878d-7666cde837e6",
+      "id": "652dc613-23e9-4f0f-878d-7666cde837e6",
+      "nome": "Inner",
+      "cor": "#ce21af",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "022fd3da-5327-4071-97de-2e6e99893991",
+      "id": "022fd3da-5327-4071-97de-2e6e99893991",
+      "nome": "Product",
+      "cor": "#20d861",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "58fcdc69-3750-4418-a8a0-b4b2e12111b0",
+      "id": "58fcdc69-3750-4418-a8a0-b4b2e12111b0",
+      "nome": "Something",
+      "cor": "#04a5b1",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "1af3798e-a59f-4cd5-9974-1b54aadf9515",
+      "id": "1af3798e-a59f-4cd5-9974-1b54aadf9515",
+      "nome": "Annotations",
+      "cor": "#3d92a7",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "5405d68f-bf8f-45ce-a8f8-e4bdd80f5098",
+      "id": "5405d68f-bf8f-45ce-a8f8-e4bdd80f5098",
+      "nome": "Lock6",
+      "cor": "#5aa176",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "156a9224-e23b-4671-8361-7990a6503bf2",
+      "id": "156a9224-e23b-4671-8361-7990a6503bf2",
+      "nome": "Lock",
+      "cor": "#5aa176",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "a776b1ed-ec83-45ea-a964-b0cbedf8c3ed",
+      "id": "a776b1ed-ec83-45ea-a964-b0cbedf8c3ed",
+      "nome": "Lock4",
+      "cor": "#5aa176",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "6fa3b896-0923-4958-a00a-175aa8cbe7ff",
+      "id": "6fa3b896-0923-4958-a00a-175aa8cbe7ff",
+      "nome": "Lock3",
+      "cor": "#5aa176",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "c98396e4-5f3b-4889-a532-fed0095710a6",
+      "id": "c98396e4-5f3b-4889-a532-fed0095710a6",
+      "nome": "Lock1",
+      "cor": "#5aa176",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "e67c4a73-9c30-4e62-8ba1-af0715630565",
+      "id": "e67c4a73-9c30-4e62-8ba1-af0715630565",
+      "nome": "Lock5",
+      "cor": "#5aa176",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "50aa951b-81bc-4d1e-891e-99760d8d04cf",
+      "id": "50aa951b-81bc-4d1e-891e-99760d8d04cf",
+      "nome": "Lock2",
+      "cor": "#5aa176",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "e76f0e64-6055-4356-a9c5-9af7369fe889",
+      "id": "e76f0e64-6055-4356-a9c5-9af7369fe889",
+      "nome": "Files1",
+      "cor": "#919a9c",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "7fa6d765-7144-46fb-a752-58e57bcfa6c2",
+      "id": "7fa6d765-7144-46fb-a752-58e57bcfa6c2",
+      "nome": "Files",
+      "cor": "#919a9c",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "ace6618a-75ed-4231-92d9-4cc659c2a9b4",
+      "id": "ace6618a-75ed-4231-92d9-4cc659c2a9b4",
+      "nome": "Math1",
+      "cor": "#378ef0",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "5db38236-6df6-47c0-bab2-927b432343b2",
+      "id": "5db38236-6df6-47c0-bab2-927b432343b2",
+      "nome": "Math",
+      "cor": "#378ef0",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "f603cb2e-2f11-4bd7-ae2c-44dda5efafc6",
+      "id": "f603cb2e-2f11-4bd7-ae2c-44dda5efafc6",
+      "nome": "Outer",
+      "cor": "#d7194a",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "99a3b609-2ee5-4250-ad2a-70444a2d96c6",
+      "id": "99a3b609-2ee5-4250-ad2a-70444a2d96c6",
+      "nome": "Foo",
+      "cor": "#bfecd6",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "d0f40e8c-abfe-4e91-a77d-79cbed012973",
+      "id": "d0f40e8c-abfe-4e91-a77d-79cbed012973",
+      "nome": "LocalDate1",
+      "cor": "#88adb0",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "a276a683-7f34-48ca-9359-5aaa2a92e2d7",
+      "id": "a276a683-7f34-48ca-9359-5aaa2a92e2d7",
+      "nome": "Local",
+      "cor": "#88adb0",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "acf86d8f-5a77-49a2-8dc2-0643f18ecc50",
+      "id": "acf86d8f-5a77-49a2-8dc2-0643f18ecc50",
+      "nome": "LocalDateTime1",
+      "cor": "#88adb0",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "5ac3f7cb-1dde-4ed5-9e3e-b784b0ef9d00",
+      "id": "5ac3f7cb-1dde-4ed5-9e3e-b784b0ef9d00",
+      "nome": "LocalTime1",
+      "cor": "#88adb0",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "be918476-5aa8-4bba-9f23-57e034034354",
+      "id": "be918476-5aa8-4bba-9f23-57e034034354",
+      "nome": "Concurrent",
+      "cor": "#65c098",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "d5fc516b-a97d-413b-a9ea-7212b007ed7c",
+      "id": "d5fc516b-a97d-413b-a9ea-7212b007ed7c",
+      "nome": "ConcurrentHashMap1",
+      "cor": "#65c098",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "501521ed-e66b-4681-815c-3c36c089af50",
+      "id": "501521ed-e66b-4681-815c-3c36c089af50",
+      "nome": "Checked",
+      "cor": "#a79bcb",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "35234546-2623-40c8-b765-283d16b9a874",
+      "id": "35234546-2623-40c8-b765-283d16b9a874",
+      "nome": "Executors1",
+      "cor": "#c49848",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "a1b8b8cf-15df-48bb-8c40-8573ecddb9e6",
+      "id": "a1b8b8cf-15df-48bb-8c40-8573ecddb9e6",
+      "nome": "Executors",
+      "cor": "#c49848",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "e57320d9-5691-43b4-97c8-fd0ed90acfae",
+      "id": "e57320d9-5691-43b4-97c8-fd0ed90acfae",
+      "nome": "Executors2",
+      "cor": "#c49848",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "ed9b72a3-26d4-4d85-852b-620e28cfc62f",
+      "id": "ed9b72a3-26d4-4d85-852b-620e28cfc62f",
+      "nome": "Executors3",
+      "cor": "#c49848",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "00742b06-9838-480f-a133-03967283272e",
+      "id": "00742b06-9838-480f-a133-03967283272e",
+      "nome": "Maps1",
+      "cor": "#e95fed",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "7ac7ece2-b155-496b-9d72-5c792e4544e4",
+      "id": "7ac7ece2-b155-496b-9d72-5c792e4544e4",
+      "nome": "Maps",
+      "cor": "#e95fed",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "f52f6113-eaaf-4b57-897e-8ecc871bc576",
+      "id": "f52f6113-eaaf-4b57-897e-8ecc871bc576",
+      "nome": "String1",
+      "cor": "#f137ce",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "fdb2cbd9-9613-4939-8659-a6b4afecc623",
+      "id": "fdb2cbd9-9613-4939-8659-a6b4afecc623",
+      "nome": "String",
+      "cor": "#f137ce",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "98d39ec3-3854-4aea-bebd-98619cd5193f",
+      "id": "98d39ec3-3854-4aea-bebd-98619cd5193f",
+      "nome": "Super",
+      "cor": "#fd4ba5",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "e5501fbb-8359-4a17-bbdb-760ea669d3a5",
+      "id": "e5501fbb-8359-4a17-bbdb-760ea669d3a5",
+      "nome": "Nested",
+      "cor": "#d6aff2",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "dd0c6a97-d17a-4168-beec-af023889625c",
+      "id": "dd0c6a97-d17a-4168-beec-af023889625c",
+      "nome": "Streams",
+      "cor": "#d8b42d",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "9fa21ba6-1479-4691-938b-e0398676b68f",
+      "id": "9fa21ba6-1479-4691-938b-e0398676b68f",
+      "nome": "Streams3",
+      "cor": "#d8b42d",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "b1d7b00c-faad-45aa-a9d8-60cb8baee47c",
+      "id": "b1d7b00c-faad-45aa-a9d8-60cb8baee47c",
+      "nome": "Streams6",
+      "cor": "#d8b42d",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "d8becb94-8a67-4015-8942-454d1c7070b1",
+      "id": "d8becb94-8a67-4015-8942-454d1c7070b1",
+      "nome": "Streams8",
+      "cor": "#d8b42d",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "5a5e2412-8fd4-4fb0-9c3e-10d9ed2e31ec",
+      "id": "5a5e2412-8fd4-4fb0-9c3e-10d9ed2e31ec",
+      "nome": "Streams12",
+      "cor": "#d8b42d",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "8bbb46fa-94ac-4940-a7e9-28777d452900",
+      "id": "8bbb46fa-94ac-4940-a7e9-28777d452900",
+      "nome": "Streams1",
+      "cor": "#d8b42d",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "129a5a14-bee7-4302-993b-6b5138039364",
+      "id": "129a5a14-bee7-4302-993b-6b5138039364",
+      "nome": "Streams5",
+      "cor": "#d8b42d",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "2184444b-d448-4fa2-b8b9-aec3a6eebb7e",
+      "id": "2184444b-d448-4fa2-b8b9-aec3a6eebb7e",
+      "nome": "Streams2",
+      "cor": "#d8b42d",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "272872f1-5849-42bd-afbf-13d309b5d591",
+      "id": "272872f1-5849-42bd-afbf-13d309b5d591",
+      "nome": "Streams9",
+      "cor": "#d8b42d",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "190f5247-e6c0-4301-a97b-1250cc645d2a",
+      "id": "190f5247-e6c0-4301-a97b-1250cc645d2a",
+      "nome": "Streams4",
+      "cor": "#d8b42d",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "16c20c31-36a4-4990-ad01-aebf6a94df2e",
+      "id": "16c20c31-36a4-4990-ad01-aebf6a94df2e",
+      "nome": "Streams13",
+      "cor": "#d8b42d",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "cc4c4836-4958-4867-ab4d-43ed99d319f5",
+      "id": "cc4c4836-4958-4867-ab4d-43ed99d319f5",
+      "nome": "Inner",
+      "cor": "#ce21af",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "8549b9a1-143e-4e85-bd18-d2e1cc690193",
+      "id": "8549b9a1-143e-4e85-bd18-d2e1cc690193",
+      "nome": "Bar",
+      "cor": "#485ac9",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "4953dda2-fd81-45bd-90cd-06d495670390",
+      "id": "4953dda2-fd81-45bd-90cd-06d495670390",
+      "nome": "LongAccumulator1",
+      "cor": "#03f3e3",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "118804fb-232f-401c-a563-74152fe9fba1",
+      "id": "118804fb-232f-401c-a563-74152fe9fba1",
+      "nome": "Long",
+      "cor": "#03f3e3",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "e05f5cff-69c8-435d-ab20-9e1658c915b1",
+      "id": "e05f5cff-69c8-435d-ab20-9e1658c915b1",
+      "nome": "LongAdder1",
+      "cor": "#03f3e3",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "bb598fe5-8f93-428d-b6f2-9336214d568b",
+      "id": "bb598fe5-8f93-428d-b6f2-9336214d568b",
+      "nome": "Person",
+      "cor": "#11e1f6",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "95e16f93-1f4e-4757-99e5-e4b32c1ccebc",
+      "id": "95e16f93-1f4e-4757-99e5-e4b32c1ccebc",
+      "nome": "Semaphore2",
+      "cor": "#995ecd",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "7a27955e-08e6-4b9d-8d50-61461bed592a",
+      "id": "7a27955e-08e6-4b9d-8d50-61461bed592a",
+      "nome": "Semaphore",
+      "cor": "#995ecd",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "6822817a-e8b7-42ba-88b3-30bed0293053",
+      "id": "6822817a-e8b7-42ba-88b3-30bed0293053",
+      "nome": "Semaphore1",
+      "cor": "#995ecd",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "d49f0cc4-00cb-4dac-b6d7-036bef6cfe5f",
+      "id": "d49f0cc4-00cb-4dac-b6d7-036bef6cfe5f",
+      "nome": "Threads1",
+      "cor": "#08cd7b",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "1179e792-c952-4f43-b3a6-d7fc298ed6c7",
+      "id": "1179e792-c952-4f43-b3a6-d7fc298ed6c7",
+      "nome": "Threads",
+      "cor": "#08cd7b",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "a08e0008-d108-4d1e-85b1-05cf6e3b5183",
+      "id": "a08e0008-d108-4d1e-85b1-05cf6e3b5183",
+      "nome": "Lambda5",
+      "cor": "#e2cf6a",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "c0dc9840-48ed-473e-8d22-ff755e424471",
+      "id": "c0dc9840-48ed-473e-8d22-ff755e424471",
+      "nome": "Lambda",
+      "cor": "#e2cf6a",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "6bf673ce-cf74-4930-8c93-e9020913daae",
+      "id": "6bf673ce-cf74-4930-8c93-e9020913daae",
+      "nome": "Lambda4",
+      "cor": "#e2cf6a",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "2ffb84f5-6810-47cb-9d3c-b82f34858cf0",
+      "id": "2ffb84f5-6810-47cb-9d3c-b82f34858cf0",
+      "nome": "Lambda1",
+      "cor": "#e2cf6a",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "29620f6e-186b-4ef2-a80e-4c10d0b665ad",
+      "id": "29620f6e-186b-4ef2-a80e-4c10d0b665ad",
+      "nome": "Nashorn",
+      "cor": "#c5a260",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "704dfa88-feca-4f95-bbcc-90ad825f048e",
+      "id": "704dfa88-feca-4f95-bbcc-90ad825f048e",
+      "nome": "Nashorn8",
+      "cor": "#c5a260",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "9348f790-0b9f-495d-904f-5ba2066b1a40",
+      "id": "9348f790-0b9f-495d-904f-5ba2066b1a40",
+      "nome": "Nashorn9",
+      "cor": "#c5a260",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "7f1ee5b5-5c2a-4e5c-b951-c0b2109680f6",
+      "id": "7f1ee5b5-5c2a-4e5c-b951-c0b2109680f6",
+      "nome": "Nashorn11",
+      "cor": "#c5a260",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "8c54bd10-b97f-47a7-825f-bc0eae2d7a2f",
+      "id": "8c54bd10-b97f-47a7-825f-bc0eae2d7a2f",
+      "nome": "Nashorn3",
+      "cor": "#c5a260",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "0fa586fb-f0ee-4dfa-b8ce-50b096a6d92b",
+      "id": "0fa586fb-f0ee-4dfa-b8ce-50b096a6d92b",
+      "nome": "Nashorn4",
+      "cor": "#c5a260",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "1030896a-2189-4454-a3ee-809866ba7961",
+      "id": "1030896a-2189-4454-a3ee-809866ba7961",
+      "nome": "Nashorn10",
+      "cor": "#c5a260",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "63f81d27-50fe-4bd8-aa32-6b13f0fc8da8",
+      "id": "63f81d27-50fe-4bd8-aa32-6b13f0fc8da8",
+      "nome": "Nashorn2",
+      "cor": "#c5a260",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "1852a641-5811-4320-88f6-e4fa0476a5ab",
+      "id": "1852a641-5811-4320-88f6-e4fa0476a5ab",
+      "nome": "CompletableFuture1",
+      "cor": "#4b3361",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "38973d52-3684-4fc2-8a56-2fce91030971",
+      "id": "38973d52-3684-4fc2-8a56-2fce91030971",
+      "nome": "Completable",
+      "cor": "#4b3361",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "27655691-cffc-4b94-a716-2702238020df",
+      "id": "27655691-cffc-4b94-a716-2702238020df",
+      "nome": "Misc",
+      "cor": "#376746",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "3740fbdf-6a05-4ef6-9391-70f0250fe510",
+      "id": "3740fbdf-6a05-4ef6-9391-70f0250fe510",
+      "nome": "Optional",
+      "cor": "#ced7f0",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "163bfda8-14ed-4ba5-a06d-73a46a5add34",
+      "id": "163bfda8-14ed-4ba5-a06d-73a46a5add34",
+      "nome": "Optional1",
+      "cor": "#ced7f0",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "94c2cf62-1aed-40eb-8a4b-85e727e67ce2",
+      "id": "94c2cf62-1aed-40eb-8a4b-85e727e67ce2",
+      "nome": "Http",
+      "cor": "#9f460c",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "3f68a276-7512-4547-9464-fe24007a992e",
+      "id": "3f68a276-7512-4547-9464-fe24007a992e",
+      "nome": "Concurrency1",
+      "cor": "#ec45a3",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "3ea136c9-24ff-47c8-8498-b590bee01717",
+      "id": "3ea136c9-24ff-47c8-8498-b590bee01717",
+      "nome": "Concurrency",
+      "cor": "#ec45a3",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "c8c25306-b5f2-4f38-8665-bb097817bf64",
+      "id": "c8c25306-b5f2-4f38-8665-bb097817bf64",
+      "nome": "Atomic1",
+      "cor": "#cf29d6",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "58d9d2bd-0dfb-4264-818f-f53af4a84160",
+      "id": "58d9d2bd-0dfb-4264-818f-f53af4a84160",
+      "nome": "Atomic",
+      "cor": "#cf29d6",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "60f5915d-887a-4625-bcc1-89b29b4e4180",
+      "id": "60f5915d-887a-4625-bcc1-89b29b4e4180",
+      "nome": "Synchronized1",
+      "cor": "#9027ae",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    },
+    {
+      "uuid": "00b24e82-e3bb-439f-a843-571919e65800",
+      "id": "00b24e82-e3bb-439f-a843-571919e65800",
+      "nome": "Synchronized",
+      "cor": "#9027ae",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "9f0b1827-9e29-4c98-81a9-5caeaee77995",
+      "id": "9f0b1827-9e29-4c98-81a9-5caeaee77995",
+      "nome": "Synchronized2",
+      "cor": "#9027ae",
+      "tamanho": 5,
+      "tipo": "CLASSE"
+    }
+  ],
+  "links": [
+    {
+      "source": "ece7b33d-ce2d-4670-9f19-1787fd9744ae",
+      "target": "ece7b33d-ce2d-4670-9f19-1787fd9744ae",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "70a7e940-864a-49b7-a44d-b0b4d9a4ee90",
+      "target": "70a7e940-864a-49b7-a44d-b0b4d9a4ee90",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "4395c581-ef20-469e-a911-148aaaf4af88",
+      "target": "4395c581-ef20-469e-a911-148aaaf4af88",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "5a7cb0e9-ae9e-4feb-85e9-e9002107a746",
+      "target": "5a7cb0e9-ae9e-4feb-85e9-e9002107a746",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "d33c6c35-53ec-4499-9b2f-0745ff4197d3",
+      "target": "d33c6c35-53ec-4499-9b2f-0745ff4197d3",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "cb1a865b-e898-481f-a38a-763ae9226b68",
+      "target": "d33c6c35-53ec-4499-9b2f-0745ff4197d3",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "4395c581-ef20-469e-a911-148aaaf4af88",
+      "target": "94b5bbf6-3ea0-4ac3-82a0-877b2e91b34b",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "4395c581-ef20-469e-a911-148aaaf4af88",
+      "target": "18efc536-ca59-4abd-a39f-83d037eb938f",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "d2b79f58-fe32-41ac-9da6-64e3749f6473",
+      "target": "d33c6c35-53ec-4499-9b2f-0745ff4197d3",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "b7cd73eb-847d-420e-a479-e7de2de75881",
+      "target": "b7cd73eb-847d-420e-a479-e7de2de75881",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "7d8c5f3e-ff86-492f-b48d-85bc0b24a49a",
+      "target": "b7cd73eb-847d-420e-a479-e7de2de75881",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "68a1e485-a066-481e-9087-a48ab1fc2b38",
+      "target": "b7cd73eb-847d-420e-a479-e7de2de75881",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "32b29a42-a74e-48d6-871f-f946be638951",
+      "target": "771473c8-4f9c-4de9-b790-31bd11bcfe3c",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "32b29a42-a74e-48d6-871f-f946be638951",
+      "target": "b7cd73eb-847d-420e-a479-e7de2de75881",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "48f7a5a2-55b1-4c84-97b5-16494980b229",
+      "target": "b7cd73eb-847d-420e-a479-e7de2de75881",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "cdb45d3f-f517-4a97-9ebd-df7fb6d031e5",
+      "target": "cdb45d3f-f517-4a97-9ebd-df7fb6d031e5",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "ede406b8-c78c-4861-8d4c-870ecbf12d8a",
+      "target": "b7cd73eb-847d-420e-a479-e7de2de75881",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "0cbc96d2-089f-4bf2-9d10-7d7ea452a92e",
+      "target": "0cbc96d2-089f-4bf2-9d10-7d7ea452a92e",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "de41954d-16c3-4e69-94f8-31c86ced858a",
+      "target": "94b5bbf6-3ea0-4ac3-82a0-877b2e91b34b",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "65bb04d4-0fcc-4c88-82ea-33f9d9929cd6",
+      "target": "b7cd73eb-847d-420e-a479-e7de2de75881",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "53d385b5-a85c-4462-b0d3-6ce1fff2e5ac",
+      "target": "b7cd73eb-847d-420e-a479-e7de2de75881",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "de41954d-16c3-4e69-94f8-31c86ced858a",
+      "target": "18efc536-ca59-4abd-a39f-83d037eb938f",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "5ce834df-24f3-48c9-9bd7-0c22cb06926c",
+      "target": "f03edc16-3853-44cd-a2cf-8d811ceebae9",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "5ce834df-24f3-48c9-9bd7-0c22cb06926c",
+      "target": "0337d430-a8bc-4a21-a41d-766831e45646",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "5ce834df-24f3-48c9-9bd7-0c22cb06926c",
+      "target": "652dc613-23e9-4f0f-878d-7666cde837e6",
+      "tipo": "DEPENDENCIA_CLASSE",
+      "weight": 1
+    },
+    {
+      "source": "d33c6c35-53ec-4499-9b2f-0745ff4197d3",
+      "target": "022fd3da-5327-4071-97de-2e6e99893991",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "771473c8-4f9c-4de9-b790-31bd11bcfe3c",
+      "target": "58fcdc69-3750-4418-a8a0-b4b2e12111b0",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "ede406b8-c78c-4861-8d4c-870ecbf12d8a",
+      "target": "1af3798e-a59f-4cd5-9974-1b54aadf9515",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "5405d68f-bf8f-45ce-a8f8-e4bdd80f5098",
+      "target": "156a9224-e23b-4671-8361-7990a6503bf2",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "a776b1ed-ec83-45ea-a964-b0cbedf8c3ed",
+      "target": "156a9224-e23b-4671-8361-7990a6503bf2",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "6fa3b896-0923-4958-a00a-175aa8cbe7ff",
+      "target": "156a9224-e23b-4671-8361-7990a6503bf2",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "c98396e4-5f3b-4889-a532-fed0095710a6",
+      "target": "156a9224-e23b-4671-8361-7990a6503bf2",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "e67c4a73-9c30-4e62-8ba1-af0715630565",
+      "target": "156a9224-e23b-4671-8361-7990a6503bf2",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "50aa951b-81bc-4d1e-891e-99760d8d04cf",
+      "target": "156a9224-e23b-4671-8361-7990a6503bf2",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "e76f0e64-6055-4356-a9c5-9af7369fe889",
+      "target": "7fa6d765-7144-46fb-a752-58e57bcfa6c2",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "ace6618a-75ed-4231-92d9-4cc659c2a9b4",
+      "target": "5db38236-6df6-47c0-bab2-927b432343b2",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "f03edc16-3853-44cd-a2cf-8d811ceebae9",
+      "target": "f603cb2e-2f11-4bd7-ae2c-44dda5efafc6",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "94b5bbf6-3ea0-4ac3-82a0-877b2e91b34b",
+      "target": "99a3b609-2ee5-4250-ad2a-70444a2d96c6",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "d0f40e8c-abfe-4e91-a77d-79cbed012973",
+      "target": "a276a683-7f34-48ca-9359-5aaa2a92e2d7",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "5a7cb0e9-ae9e-4feb-85e9-e9002107a746",
+      "target": "a276a683-7f34-48ca-9359-5aaa2a92e2d7",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "acf86d8f-5a77-49a2-8dc2-0643f18ecc50",
+      "target": "a276a683-7f34-48ca-9359-5aaa2a92e2d7",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "5ac3f7cb-1dde-4ed5-9e3e-b784b0ef9d00",
+      "target": "a276a683-7f34-48ca-9359-5aaa2a92e2d7",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "cdb45d3f-f517-4a97-9ebd-df7fb6d031e5",
+      "target": "be918476-5aa8-4bba-9f23-57e034034354",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "d5fc516b-a97d-413b-a9ea-7212b007ed7c",
+      "target": "be918476-5aa8-4bba-9f23-57e034034354",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "0cbc96d2-089f-4bf2-9d10-7d7ea452a92e",
+      "target": "501521ed-e66b-4681-815c-3c36c089af50",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "35234546-2623-40c8-b765-283d16b9a874",
+      "target": "a1b8b8cf-15df-48bb-8c40-8573ecddb9e6",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "e57320d9-5691-43b4-97c8-fd0ed90acfae",
+      "target": "a1b8b8cf-15df-48bb-8c40-8573ecddb9e6",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "ed9b72a3-26d4-4d85-852b-620e28cfc62f",
+      "target": "a1b8b8cf-15df-48bb-8c40-8573ecddb9e6",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "00742b06-9838-480f-a133-03967283272e",
+      "target": "7ac7ece2-b155-496b-9d72-5c792e4544e4",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "f52f6113-eaaf-4b57-897e-8ecc871bc576",
+      "target": "fdb2cbd9-9613-4939-8659-a6b4afecc623",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "ece7b33d-ce2d-4670-9f19-1787fd9744ae",
+      "target": "98d39ec3-3854-4aea-bebd-98619cd5193f",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "0337d430-a8bc-4a21-a41d-766831e45646",
+      "target": "e5501fbb-8359-4a17-bbdb-760ea669d3a5",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "de41954d-16c3-4e69-94f8-31c86ced858a",
+      "target": "dd0c6a97-d17a-4168-beec-af023889625c",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "9fa21ba6-1479-4691-938b-e0398676b68f",
+      "target": "dd0c6a97-d17a-4168-beec-af023889625c",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "53d385b5-a85c-4462-b0d3-6ce1fff2e5ac",
+      "target": "dd0c6a97-d17a-4168-beec-af023889625c",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "65bb04d4-0fcc-4c88-82ea-33f9d9929cd6",
+      "target": "dd0c6a97-d17a-4168-beec-af023889625c",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "b1d7b00c-faad-45aa-a9d8-60cb8baee47c",
+      "target": "dd0c6a97-d17a-4168-beec-af023889625c",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "d8becb94-8a67-4015-8942-454d1c7070b1",
+      "target": "dd0c6a97-d17a-4168-beec-af023889625c",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "5a5e2412-8fd4-4fb0-9c3e-10d9ed2e31ec",
+      "target": "dd0c6a97-d17a-4168-beec-af023889625c",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "8bbb46fa-94ac-4940-a7e9-28777d452900",
+      "target": "dd0c6a97-d17a-4168-beec-af023889625c",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "129a5a14-bee7-4302-993b-6b5138039364",
+      "target": "dd0c6a97-d17a-4168-beec-af023889625c",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "2184444b-d448-4fa2-b8b9-aec3a6eebb7e",
+      "target": "dd0c6a97-d17a-4168-beec-af023889625c",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "272872f1-5849-42bd-afbf-13d309b5d591",
+      "target": "dd0c6a97-d17a-4168-beec-af023889625c",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "190f5247-e6c0-4301-a97b-1250cc645d2a",
+      "target": "dd0c6a97-d17a-4168-beec-af023889625c",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "16c20c31-36a4-4990-ad01-aebf6a94df2e",
+      "target": "dd0c6a97-d17a-4168-beec-af023889625c",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "652dc613-23e9-4f0f-878d-7666cde837e6",
+      "target": "cc4c4836-4958-4867-ab4d-43ed99d319f5",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "18efc536-ca59-4abd-a39f-83d037eb938f",
+      "target": "8549b9a1-143e-4e85-bd18-d2e1cc690193",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "4953dda2-fd81-45bd-90cd-06d495670390",
+      "target": "118804fb-232f-401c-a563-74152fe9fba1",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "e05f5cff-69c8-435d-ab20-9e1658c915b1",
+      "target": "118804fb-232f-401c-a563-74152fe9fba1",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "b7cd73eb-847d-420e-a479-e7de2de75881",
+      "target": "bb598fe5-8f93-428d-b6f2-9336214d568b",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "95e16f93-1f4e-4757-99e5-e4b32c1ccebc",
+      "target": "7a27955e-08e6-4b9d-8d50-61461bed592a",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "6822817a-e8b7-42ba-88b3-30bed0293053",
+      "target": "7a27955e-08e6-4b9d-8d50-61461bed592a",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "d49f0cc4-00cb-4dac-b6d7-036bef6cfe5f",
+      "target": "1179e792-c952-4f43-b3a6-d7fc298ed6c7",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "a08e0008-d108-4d1e-85b1-05cf6e3b5183",
+      "target": "c0dc9840-48ed-473e-8d22-ff755e424471",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "68a1e485-a066-481e-9087-a48ab1fc2b38",
+      "target": "c0dc9840-48ed-473e-8d22-ff755e424471",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "6bf673ce-cf74-4930-8c93-e9020913daae",
+      "target": "c0dc9840-48ed-473e-8d22-ff755e424471",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "32b29a42-a74e-48d6-871f-f946be638951",
+      "target": "c0dc9840-48ed-473e-8d22-ff755e424471",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "2ffb84f5-6810-47cb-9d3c-b82f34858cf0",
+      "target": "c0dc9840-48ed-473e-8d22-ff755e424471",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "cb1a865b-e898-481f-a38a-763ae9226b68",
+      "target": "29620f6e-186b-4ef2-a80e-4c10d0b665ad",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "d2b79f58-fe32-41ac-9da6-64e3749f6473",
+      "target": "29620f6e-186b-4ef2-a80e-4c10d0b665ad",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "704dfa88-feca-4f95-bbcc-90ad825f048e",
+      "target": "29620f6e-186b-4ef2-a80e-4c10d0b665ad",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "9348f790-0b9f-495d-904f-5ba2066b1a40",
+      "target": "29620f6e-186b-4ef2-a80e-4c10d0b665ad",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "7d8c5f3e-ff86-492f-b48d-85bc0b24a49a",
+      "target": "29620f6e-186b-4ef2-a80e-4c10d0b665ad",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "7f1ee5b5-5c2a-4e5c-b951-c0b2109680f6",
+      "target": "29620f6e-186b-4ef2-a80e-4c10d0b665ad",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "8c54bd10-b97f-47a7-825f-bc0eae2d7a2f",
+      "target": "29620f6e-186b-4ef2-a80e-4c10d0b665ad",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "0fa586fb-f0ee-4dfa-b8ce-50b096a6d92b",
+      "target": "29620f6e-186b-4ef2-a80e-4c10d0b665ad",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "1030896a-2189-4454-a3ee-809866ba7961",
+      "target": "29620f6e-186b-4ef2-a80e-4c10d0b665ad",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "63f81d27-50fe-4bd8-aa32-6b13f0fc8da8",
+      "target": "29620f6e-186b-4ef2-a80e-4c10d0b665ad",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "48f7a5a2-55b1-4c84-97b5-16494980b229",
+      "target": "29620f6e-186b-4ef2-a80e-4c10d0b665ad",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "1852a641-5811-4320-88f6-e4fa0476a5ab",
+      "target": "38973d52-3684-4fc2-8a56-2fce91030971",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "4395c581-ef20-469e-a911-148aaaf4af88",
+      "target": "27655691-cffc-4b94-a716-2702238020df",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "5ce834df-24f3-48c9-9bd7-0c22cb06926c",
+      "target": "3740fbdf-6a05-4ef6-9391-70f0250fe510",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "163bfda8-14ed-4ba5-a06d-73a46a5add34",
+      "target": "3740fbdf-6a05-4ef6-9391-70f0250fe510",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "70a7e940-864a-49b7-a44d-b0b4d9a4ee90",
+      "target": "94c2cf62-1aed-40eb-8a4b-85e727e67ce2",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "3f68a276-7512-4547-9464-fe24007a992e",
+      "target": "3ea136c9-24ff-47c8-8498-b590bee01717",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "c8c25306-b5f2-4f38-8665-bb097817bf64",
+      "target": "58d9d2bd-0dfb-4264-818f-f53af4a84160",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "60f5915d-887a-4625-bcc1-89b29b4e4180",
+      "target": "00b24e82-e3bb-439f-a843-571919e65800",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    },
+    {
+      "source": "9f0b1827-9e29-4c98-81a9-5caeaee77995",
+      "target": "00b24e82-e3bb-439f-a843-571919e65800",
+      "tipo": "PERTENCE_DOMINIO",
+      "weight": 1
+    }
+  ]
+}

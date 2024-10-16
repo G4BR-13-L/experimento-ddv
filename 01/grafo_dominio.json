@@ -1,0 +1,749 @@
+{
+  "nodes": [
+    {
+      "uuid": "06d3a86c-2597-412b-8934-5049a604b146",
+      "id": "06d3a86c-2597-412b-8934-5049a604b146",
+      "nome": "Properties",
+      "cor": "#455883",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "49d51a0a-1810-41a8-9eb7-9c6dcc9ac5ac",
+      "id": "49d51a0a-1810-41a8-9eb7-9c6dcc9ac5ac",
+      "nome": "Analytics",
+      "cor": "#cb458e",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "3359ce63-f7cf-4dbb-959b-876482bb33d4",
+      "id": "3359ce63-f7cf-4dbb-959b-876482bb33d4",
+      "nome": "Int",
+      "cor": "#74399a",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "d0c38322-2514-46fe-83f0-dc1f09a145c7",
+      "id": "d0c38322-2514-46fe-83f0-dc1f09a145c7",
+      "nome": "Application",
+      "cor": "#1dfb95",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "a67d39ed-3685-4e1b-8c7b-48e23729de7a",
+      "id": "a67d39ed-3685-4e1b-8c7b-48e23729de7a",
+      "nome": "Steps",
+      "cor": "#544c30",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "12d28149-6ba1-4c33-823e-7bd38d57fbf9",
+      "id": "12d28149-6ba1-4c33-823e-7bd38d57fbf9",
+      "nome": "Starter",
+      "cor": "#18219c",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "d8903efb-5ddb-462e-a56c-63125273afc2",
+      "id": "d8903efb-5ddb-462e-a56c-63125273afc2",
+      "nome": "All",
+      "cor": "#2c9999",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "912e5cae-11cf-45ff-92d7-e3890ab6b596",
+      "id": "912e5cae-11cf-45ff-92d7-e3890ab6b596",
+      "nome": "Increment",
+      "cor": "#20b7fc",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "c5f6d983-bab3-4f20-b042-71f28817d64b",
+      "id": "c5f6d983-bab3-4f20-b042-71f28817d64b",
+      "nome": "Student",
+      "cor": "#125bd6",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "e274bd46-abf5-4ead-b1f8-573256030f80",
+      "id": "e274bd46-abf5-4ead-b1f8-573256030f80",
+      "nome": "Order",
+      "cor": "#eb8f1e",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "a5f3ecb0-3248-4863-806d-bea38ef2a9ab",
+      "id": "a5f3ecb0-3248-4863-806d-bea38ef2a9ab",
+      "nome": "Validator",
+      "cor": "#0e50d9",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "b4375f21-19a1-4bb5-862c-2c6c9fcb4c70",
+      "id": "b4375f21-19a1-4bb5-862c-2c6c9fcb4c70",
+      "nome": "Declarables",
+      "cor": "#073444",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "658843bc-d9ea-4ee5-93d3-2638e188506b",
+      "id": "658843bc-d9ea-4ee5-93d3-2638e188506b",
+      "nome": "Bool",
+      "cor": "#3b8e72",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "615a770a-ab83-4a8c-8f26-01332e5e305d",
+      "id": "615a770a-ab83-4a8c-8f26-01332e5e305d",
+      "nome": "Not",
+      "cor": "#ec2de6",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "95dda5fe-bd52-465c-90c1-70d035a63804",
+      "id": "95dda5fe-bd52-465c-90c1-70d035a63804",
+      "nome": "Infrastructure",
+      "cor": "#aff251",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "736b4f06-c30c-4791-8bf3-09969855fedf",
+      "id": "736b4f06-c30c-4791-8bf3-09969855fedf",
+      "nome": "Uuid",
+      "cor": "#11c22b",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "48eaa30e-6e29-4bdc-bb22-6c23271f6522",
+      "id": "48eaa30e-6e29-4bdc-bb22-6c23271f6522",
+      "nome": "Request",
+      "cor": "#2e2ce0",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "843e83d7-adff-42d1-b5fc-bf35ad6cbf9d",
+      "id": "843e83d7-adff-42d1-b5fc-bf35ad6cbf9d",
+      "nome": "Local",
+      "cor": "#efbb90",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "43b43879-6cf1-47dd-b823-dd84c32f0df2",
+      "id": "43b43879-6cf1-47dd-b823-dd84c32f0df2",
+      "nome": "Object",
+      "cor": "#c75aed",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "8ab6a51b-91b8-44ff-8842-90aca0a655a5",
+      "id": "8ab6a51b-91b8-44ff-8842-90aca0a655a5",
+      "nome": "Create",
+      "cor": "#356b10",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "b4a8d8c3-999b-41b6-a4f0-36fbca78e77a",
+      "id": "b4a8d8c3-999b-41b6-a4f0-36fbca78e77a",
+      "nome": "Runtime",
+      "cor": "#8e5193",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "01d30ce2-8d44-42a4-a8bd-449814c81d7c",
+      "id": "01d30ce2-8d44-42a4-a8bd-449814c81d7c",
+      "nome": "Parameter",
+      "cor": "#c89291",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "170de3d0-b44e-4499-8b74-4737cef0ec3f",
+      "id": "170de3d0-b44e-4499-8b74-4737cef0ec3f",
+      "nome": "Flash",
+      "cor": "#8a6626",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "c205371c-0306-427d-907e-c93b3568d998",
+      "id": "c205371c-0306-427d-907e-c93b3568d998",
+      "nome": "Aggregate",
+      "cor": "#917a57",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "a9527b07-da4a-4c5b-a05f-4c3f164ae0a5",
+      "id": "a9527b07-da4a-4c5b-a05f-4c3f164ae0a5",
+      "nome": "Domain",
+      "cor": "#cec52e",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "ad6a77e2-a7c6-40b2-b6ef-242b3cd1c46d",
+      "id": "ad6a77e2-a7c6-40b2-b6ef-242b3cd1c46d",
+      "nome": "Elasticsearch",
+      "cor": "#11047a",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "ce9cc3fa-83c2-42c1-89a1-572c3f84973f",
+      "id": "ce9cc3fa-83c2-42c1-89a1-572c3f84973f",
+      "nome": "Basic",
+      "cor": "#0df311",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "fe5048d3-74ea-4a6c-bca4-e9f22483849c",
+      "id": "fe5048d3-74ea-4a6c-bca4-e9f22483849c",
+      "nome": "Consume",
+      "cor": "#481631",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "bd5d1c94-d74e-4228-b18f-c5f1cca61e07",
+      "id": "bd5d1c94-d74e-4228-b18f-c5f1cca61e07",
+      "nome": "Random",
+      "cor": "#b60cff",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "e3b5d565-bee3-4d74-b2e3-5aa649768387",
+      "id": "e3b5d565-bee3-4d74-b2e3-5aa649768387",
+      "nome": "Json",
+      "cor": "#4f02ec",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "1d51560d-ebbb-46a8-a992-bded96c6c171",
+      "id": "1d51560d-ebbb-46a8-a992-bded96c6c171",
+      "nome": "Video",
+      "cor": "#7afd54",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "cf16a452-2c60-4b9e-924a-e761b2b1267a",
+      "id": "cf16a452-2c60-4b9e-924a-e761b2b1267a",
+      "nome": "Query",
+      "cor": "#dea681",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "764f344c-cf1d-4d0f-aeee-0292e47f2d25",
+      "id": "764f344c-cf1d-4d0f-aeee-0292e47f2d25",
+      "nome": "Criteria",
+      "cor": "#e5428c",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "6a84c7a3-c6d4-49ff-b4be-e2e19e4055f1",
+      "id": "6a84c7a3-c6d4-49ff-b4be-e2e19e4055f1",
+      "nome": "Store",
+      "cor": "#596a52",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "d9917d50-d136-4686-8114-bc3cd7fa458b",
+      "id": "d9917d50-d136-4686-8114-bc3cd7fa458b",
+      "nome": "Filters",
+      "cor": "#f5f153",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "b25c88f9-2ebd-48f5-be83-f251805287ce",
+      "id": "b25c88f9-2ebd-48f5-be83-f251805287ce",
+      "nome": "Last",
+      "cor": "#8532e6",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "058c328f-b5a7-4267-b40a-5c9ceb5928c9",
+      "id": "058c328f-b5a7-4267-b40a-5c9ceb5928c9",
+      "nome": "Validation",
+      "cor": "#a1e37d",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "60549afe-9fdf-4589-a153-d8e0c64b4d81",
+      "id": "60549afe-9fdf-4589-a153-d8e0c64b4d81",
+      "nome": "Integer",
+      "cor": "#0b594f",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "9f776185-2f6c-446f-bed8-9b26724c05fc",
+      "id": "9f776185-2f6c-446f-bed8-9b26724c05fc",
+      "nome": "Identifier",
+      "cor": "#d167cc",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "dca3746a-11bb-4a26-b629-30c1665cb4da",
+      "id": "dca3746a-11bb-4a26-b629-30c1665cb4da",
+      "nome": "Redirect",
+      "cor": "#2d751d",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "b9250a3f-a8d1-4559-8d54-37090071fdaa",
+      "id": "b9250a3f-a8d1-4559-8d54-37090071fdaa",
+      "nome": "Spring",
+      "cor": "#001ee9",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "ce6ed5ec-0acf-4626-a595-22fde7649944",
+      "id": "ce6ed5ec-0acf-4626-a595-22fde7649944",
+      "nome": "Illegal",
+      "cor": "#fa5a71",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "75e178ae-afb0-4634-a35c-acc692c22b6d",
+      "id": "75e178ae-afb0-4634-a35c-acc692c22b6d",
+      "nome": "Required",
+      "cor": "#8172e6",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "0f0bef65-5a5f-4aa9-967f-0a062bb709be",
+      "id": "0f0bef65-5a5f-4aa9-967f-0a062bb709be",
+      "nome": "Fake",
+      "cor": "#e38f33",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "4dd3fe63-9ce2-4597-ab12-8ef475a6372e",
+      "id": "4dd3fe63-9ce2-4597-ab12-8ef475a6372e",
+      "nome": "Filter",
+      "cor": "#584bfb",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "d0299eef-2df2-412c-8bce-3d63132058e7",
+      "id": "d0299eef-2df2-412c-8bce-3d63132058e7",
+      "nome": "Index",
+      "cor": "#511423",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "71e39a58-c103-4bff-a338-ebb2be808bfc",
+      "id": "71e39a58-c103-4bff-a338-ebb2be808bfc",
+      "nome": "Http",
+      "cor": "#2154b9",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "7a64373b-4efc-471c-b07f-cc2e65eac560",
+      "id": "7a64373b-4efc-471c-b07f-cc2e65eac560",
+      "nome": "Java",
+      "cor": "#b0c586",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "80dc869d-1385-4079-840f-71f78eada657",
+      "id": "80dc869d-1385-4079-840f-71f78eada657",
+      "nome": "Topic",
+      "cor": "#43c6c1",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "d1f2f281-d053-43ff-b874-69d93fc77be1",
+      "id": "d1f2f281-d053-43ff-b874-69d93fc77be1",
+      "nome": "Search",
+      "cor": "#d5f6cb",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "0658dfe7-4496-4b0f-903a-bfbf5eb296b0",
+      "id": "0658dfe7-4496-4b0f-903a-bfbf5eb296b0",
+      "nome": "Exception",
+      "cor": "#ba5f78",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "9be3269b-e4ea-4a27-a207-b8e4b3eaa7d4",
+      "id": "9be3269b-e4ea-4a27-a207-b8e4b3eaa7d4",
+      "nome": "Command",
+      "cor": "#edcd22",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "bc998fd9-c8a9-41e9-9d40-196728be8683",
+      "id": "bc998fd9-c8a9-41e9-9d40-196728be8683",
+      "nome": "Faker",
+      "cor": "#876004",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "8ed5ea4e-29c7-4be9-a7e1-c26236d57fcb",
+      "id": "8ed5ea4e-29c7-4be9-a7e1-c26236d57fcb",
+      "nome": "User",
+      "cor": "#207ad9",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "b78b2f8e-c533-49c9-8ba5-b007068a0b12",
+      "id": "b78b2f8e-c533-49c9-8ba5-b007068a0b12",
+      "nome": "Environment",
+      "cor": "#9625fd",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "3f12dbde-a61e-4782-a755-ddb26bdb4c5d",
+      "id": "3f12dbde-a61e-4782-a755-ddb26bdb4c5d",
+      "nome": "Free",
+      "cor": "#b4b3b3",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "63d6768a-a401-49ab-8564-096ff7422e63",
+      "id": "63d6768a-a401-49ab-8564-096ff7422e63",
+      "nome": "Word",
+      "cor": "#3b5898",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "d906114e-f3f6-4c09-aa3b-0151212fd132",
+      "id": "d906114e-f3f6-4c09-aa3b-0151212fd132",
+      "nome": "Health",
+      "cor": "#dcf516",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "5de48879-90e5-4e1a-be3b-a27fe2fd5601",
+      "id": "5de48879-90e5-4e1a-be3b-a27fe2fd5601",
+      "nome": "Thread",
+      "cor": "#6b5456",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "935dc59d-e1a4-447f-a02d-0bd6df46bffd",
+      "id": "935dc59d-e1a4-447f-a02d-0bd6df46bffd",
+      "nome": "Newsletter",
+      "cor": "#75ef5f",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "7399c9b6-b6f8-43d3-98e1-b71a2bed70fe",
+      "id": "7399c9b6-b6f8-43d3-98e1-b71a2bed70fe",
+      "nome": "Courses",
+      "cor": "#aa8864",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "5d3762bc-467c-4ec4-95fb-5f7801378c89",
+      "id": "5d3762bc-467c-4ec4-95fb-5f7801378c89",
+      "nome": "String",
+      "cor": "#0c52ff",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "70662a29-a76c-44fd-b543-a82e7fd6a630",
+      "id": "70662a29-a76c-44fd-b543-a82e7fd6a630",
+      "nome": "Hibernate",
+      "cor": "#9066a0",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "aea8fcc0-e407-4481-b88c-57d6cf73a0f1",
+      "id": "aea8fcc0-e407-4481-b88c-57d6cf73a0f1",
+      "nome": "Api",
+      "cor": "#5efb0b",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "b466926e-dc4d-4de9-931d-f6e4f6ef41f0",
+      "id": "b466926e-dc4d-4de9-931d-f6e4f6ef41f0",
+      "nome": "Auth",
+      "cor": "#0cbbc6",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "a1a482d0-7dbf-4c1d-87f5-66910617290f",
+      "id": "a1a482d0-7dbf-4c1d-87f5-66910617290f",
+      "nome": "Caching",
+      "cor": "#3baeaf",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "88b35275-014b-4301-85ec-c03c4cbf8157",
+      "id": "88b35275-014b-4301-85ec-c03c4cbf8157",
+      "nome": "Course",
+      "cor": "#d901af",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "f7e36be0-4dc2-46df-a921-74c59f4e553e",
+      "id": "f7e36be0-4dc2-46df-a921-74c59f4e553e",
+      "nome": "Notifications",
+      "cor": "#399495",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "deb36723-9556-4eb7-93ad-032909a4f461",
+      "id": "deb36723-9556-4eb7-93ad-032909a4f461",
+      "nome": "Home",
+      "cor": "#2305e6",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "c5cc0d9a-7c36-4073-8d84-1ca46752b3e9",
+      "id": "c5cc0d9a-7c36-4073-8d84-1ca46752b3e9",
+      "nome": "Backoffice",
+      "cor": "#34a4c3",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "8ba9c36d-7538-4925-b33a-563bdce0235f",
+      "id": "8ba9c36d-7538-4925-b33a-563bdce0235f",
+      "nome": "In",
+      "cor": "#61eb5e",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "6c607549-11fc-492a-9707-3953dc4f88a2",
+      "id": "6c607549-11fc-492a-9707-3953dc4f88a2",
+      "nome": "Email",
+      "cor": "#c757f5",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "539b324b-2439-4ed2-8546-b3077c042475",
+      "id": "539b324b-2439-4ed2-8546-b3077c042475",
+      "nome": "Authenticate",
+      "cor": "#f40602",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "d7f15a3e-8162-4d2b-9cf8-3f56d9e64779",
+      "id": "d7f15a3e-8162-4d2b-9cf8-3f56d9e64779",
+      "nome": "Unit",
+      "cor": "#40654e",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "21a69cbd-e40d-4a2d-a904-33dc69ad9d83",
+      "id": "21a69cbd-e40d-4a2d-a904-33dc69ad9d83",
+      "nome": "New",
+      "cor": "#5e730a",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "bfeb625c-2779-43c6-9c94-1709ebac6ac9",
+      "id": "bfeb625c-2779-43c6-9c94-1709ebac6ac9",
+      "nome": "Servlet",
+      "cor": "#329e4f",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "8e4c56f6-27d4-4757-8d6f-0fea72029761",
+      "id": "8e4c56f6-27d4-4757-8d6f-0fea72029761",
+      "nome": "My",
+      "cor": "#80f770",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "b9f5a0ec-4580-402f-821c-75d466f4d622",
+      "id": "b9f5a0ec-4580-402f-821c-75d466f4d622",
+      "nome": "Find",
+      "cor": "#4a188c",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "abfa73e6-7d68-4e8c-a666-7fb260b91879",
+      "id": "abfa73e6-7d68-4e8c-a666-7fb260b91879",
+      "nome": "Test",
+      "cor": "#9d6663",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "dd6377c3-b1ef-40b3-aaa6-af79e4aae06c",
+      "id": "dd6377c3-b1ef-40b3-aaa6-af79e4aae06c",
+      "nome": "Send",
+      "cor": "#0e02e5",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "44ab3b59-3f68-4f2f-94cf-382fad58a799",
+      "id": "44ab3b59-3f68-4f2f-94cf-382fad58a799",
+      "nome": "Console",
+      "cor": "#29d3fb",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "bf459bcc-9233-45ce-b947-45130ca967d9",
+      "id": "bf459bcc-9233-45ce-b947-45130ca967d9",
+      "nome": "Mother",
+      "cor": "#719cbf",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "da170e36-1059-48bf-900e-15477f616ce0",
+      "id": "da170e36-1059-48bf-900e-15477f616ce0",
+      "nome": "Utils",
+      "cor": "#9e1d7d",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "3eec4ed8-1c38-4889-b618-0d8c993fe8ea",
+      "id": "3eec4ed8-1c38-4889-b618-0d8c993fe8ea",
+      "nome": "Step",
+      "cor": "#193bfb",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "7b709dbf-59e4-4ff0-8c11-72be1ec3e43d",
+      "id": "7b709dbf-59e4-4ff0-8c11-72be1ec3e43d",
+      "nome": "Challenge",
+      "cor": "#e55a53",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "8dcc8b30-1d44-4f21-b6ba-5a9bb9e6dfd4",
+      "id": "8dcc8b30-1d44-4f21-b6ba-5a9bb9e6dfd4",
+      "nome": "Invalid",
+      "cor": "#30d843",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "d39d30db-859f-4266-9a0a-c3f7e8f20e83",
+      "id": "d39d30db-859f-4266-9a0a-c3f7e8f20e83",
+      "nome": "Rabbit",
+      "cor": "#450ece",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "9fdceb83-fb50-4b2a-ac08-4ae8f0b0b6f5",
+      "id": "9fdceb83-fb50-4b2a-ac08-4ae8f0b0b6f5",
+      "nome": "List",
+      "cor": "#73c4f9",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "fc51882c-93c4-4e7b-ba25-b7c19012bd74",
+      "id": "fc51882c-93c4-4e7b-ba25-b7c19012bd74",
+      "nome": "Scanner",
+      "cor": "#5d609a",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "993d2627-4004-470f-adfa-587aedbff292",
+      "id": "993d2627-4004-470f-adfa-587aedbff292",
+      "nome": "Students",
+      "cor": "#1804f1",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "223e07af-d407-4d9c-9c64-e1e3994acb49",
+      "id": "223e07af-d407-4d9c-9c64-e1e3994acb49",
+      "nome": "File",
+      "cor": "#78db66",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "f4365a79-7ede-4855-a8b6-c3edbd19173b",
+      "id": "f4365a79-7ede-4855-a8b6-c3edbd19173b",
+      "nome": "Mooc",
+      "cor": "#a689d6",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    },
+    {
+      "uuid": "ec8377fb-7157-4711-aabf-756e5cc2a892",
+      "id": "ec8377fb-7157-4711-aabf-756e5cc2a892",
+      "nome": "Reflections",
+      "cor": "#321fcd",
+      "tamanho": 10,
+      "tipo": "DOMINIO"
+    }
+  ],
+  "links": []
+}
